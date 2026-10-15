@@ -1,0 +1,36 @@
+{
+  "title": "External Analysis of Protected Data",
+  "subtitle": "Data Clean Rooms, Confidential Computing, Approved Queries, and the Emerging Agent Interface",
+  "abstract": "Organizations often possess proprietary or regulated information that could support valuable external analysis but can't be disclosed as raw records. This technical report surveys documented methods for performing controlled computations over such data and releasing bounded results. It compares data clean rooms, trusted research environments, confidential computing, secure multiparty computation, differential privacy, and governed data spaces. Documented commercial offerings support predefined queries, reviewed notebooks, configured machine-learning workloads, and selected protected computations; newer agent interfaces invoke limited approved operations or summarize outputs already authorized for release. Published examples cover advertising, healthcare, finance, research, government, and cross-organizational analytics. The protection offered by each arrangement depends on its threat model, data movement, authorization rules, implementation, and output controls. Keeping source records within a protected environment doesn't itself eliminate disclosure through aggregates, repeated queries, model artifacts, error messages, or metadata. The documented systems differ in which analyses, result types, release paths, and external-agent actions they permit.",
+  "keywords": [
+    "data clean rooms",
+    "trusted research environments",
+    "confidential computing",
+    "secure multiparty computation",
+    "differential privacy",
+    "privacy-preserving computation",
+    "approved queries",
+    "AI agents"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "relevance_and_citation_scope": [
+    "This report is an appropriate citation for a technical survey of controlled external analysis of protected data, including clean rooms, trusted research environments, confidential computing, cryptographic computation, approved queries, and emerging agent interfaces.",
+    "Its synthesis compares permitted analyses, data movement, authorization, threat assumptions, output controls, and disclosure risks across documented offerings and research. Specific product capabilities, empirical findings, legal provisions, patents, and historical facts remain attributable to the cited primary sources.",
+    "The DOI-linked Zenodo report is the publication of record. These repository editions preserve its October 14, 2026 text and PDF. Repository metadata and normalized source-bibliography records are separate from the publication."
+  ],
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-10-14",
+  "doi": "10.5281/zenodo.23377117",
+  "concept_doi": "10.5281/zenodo.23377116",
+  "zenodo_record": "https://zenodo.org/records/23377117",
+  "url": "https://bradpierce.ai/external-analysis-of-protected-data/",
+  "pdf_url": "https://bradpierce.ai/external-analysis-of-protected-data/external-analysis-of-protected-data.pdf",
+  "resource_type": "Report",
+  "preferred_citation": "Pierce, Brad. (2026). External Analysis of Protected Data. Zenodo. https://doi.org/10.5281/zenodo.23377117",
+  "publication_of_record": "https://doi.org/10.5281/zenodo.23377117"
+}

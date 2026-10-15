@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradpierce.ai/external-analysis-of-protected-data/sitemap.xml

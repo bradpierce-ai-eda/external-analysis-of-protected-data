@@ -1,0 +1,3314 @@
+[
+  {
+    "id": "f164_ref_001",
+    "type": "webpage",
+    "title": "「析秘MPC」の分析AIオプション(学習・推論)を提供開始",
+    "URL": "https://www.ntt.com/about-us/press-releases/news/article/2026/0624.html",
+    "author": [
+      {
+        "literal": "NTTドコモビジネス"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Launch of the analysis AI option (training and inference) for SeCIHI MPC. Published reference slots: ref-001. Published context: [1] NTTドコモビジネス, 「析秘MPC」の分析AIオプション(学習・推論)を提供開始 [Launch of the analysis AI option (training and inference) for SeCIHI MPC], June 2026. https://www.ntt.com/about-us/press-releases/news/article/2026/0624.html"
+  },
+  {
+    "id": "f164_ref_002",
+    "type": "webpage",
+    "title": "Data Clean Rooms: Secure and Private Data Collaboration",
+    "URL": "https://www.idc.com/resource-center/blog/data-clean-rooms-secure-and-private-data-collaboration/",
+    "author": [
+      {
+        "family": "Schneider",
+        "given": "Lynne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          14
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-002. Published context: [2] Lynne Schneider (IDC), “Data Clean Rooms: Secure and Private Data Collaboration,” February 14, 2024. https://www.idc.com/resource-center/blog/data-clean-rooms-secure-and-private-data-collaboration/"
+  },
+  {
+    "id": "f164_ref_003",
+    "type": "webpage",
+    "title": "The best data clean room companies in 2026",
+    "URL": "https://www.decentriq.com/article/data-clean-rooms-compared",
+    "author": [
+      {
+        "literal": "Decentriq"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          23
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-003. Published context: [3] Decentriq, “The best data clean room companies in 2026,” 23 March 2026. https://www.decentriq.com/article/data-clean-rooms-compared"
+  },
+  {
+    "id": "f164_ref_004",
+    "type": "webpage",
+    "title": "Analysis rules in AWS Clean Rooms",
+    "URL": "https://docs.aws.amazon.com/clean-rooms/latest/userguide/analysis-rules.html",
+    "author": [
+      {
+        "literal": "AWS"
+      }
+    ],
+    "note": "Published reference slots: ref-004. Published context: [4] AWS, “Analysis rules in AWS Clean Rooms”. https://docs.aws.amazon.com/clean-rooms/latest/userguide/analysis-rules.html"
+  },
+  {
+    "id": "f164_ref_005",
+    "type": "webpage",
+    "title": "AWS Clean Rooms ML",
+    "URL": "https://docs.aws.amazon.com/clean-rooms/latest/userguide/machine-learning.html",
+    "author": [
+      {
+        "literal": "AWS"
+      }
+    ],
+    "note": "Published reference slots: ref-005. Published context: [5] AWS, “AWS Clean Rooms ML”. https://docs.aws.amazon.com/clean-rooms/latest/userguide/machine-learning.html"
+  },
+  {
+    "id": "f164_ref_006",
+    "type": "webpage",
+    "title": "AWS Clean Rooms supports synthetic dataset generation for custom ML training",
+    "URL": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-clean-rooms-synthetic-dataset-generation-custom-ml/",
+    "author": [
+      {
+        "literal": "Amazon Web Services"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-006. Published context: [6] Amazon Web Services, “AWS Clean Rooms supports synthetic dataset generation for custom ML training,” November 30, 2025. https://aws.amazon.com/about-aws/whats-new/2025/11/aws-clean-rooms-synthetic-dataset-generation-custom-ml/"
+  },
+  {
+    "id": "f164_ref_007",
+    "type": "webpage",
+    "title": "Privacy-enhanced synthetic dataset generation",
+    "URL": "https://docs.aws.amazon.com/clean-rooms/latest/userguide/synthetic-data-generation.html",
+    "author": [
+      {
+        "literal": "AWS"
+      }
+    ],
+    "note": "Published reference slots: ref-007. Published context: [7] AWS, “Privacy-enhanced synthetic dataset generation”. https://docs.aws.amazon.com/clean-rooms/latest/userguide/synthetic-data-generation.html"
+  },
+  {
+    "id": "f164_ref_008",
+    "type": "webpage",
+    "title": "About Snowflake Data Clean Rooms",
+    "URL": "https://docs.snowflake.com/en/en/user-guide/cleanrooms/introduction",
+    "author": [
+      {
+        "literal": "Snowflake"
+      }
+    ],
+    "note": "Published reference slots: ref-008. Published context: [8] Snowflake, “About Snowflake Data Clean Rooms”. https://docs.snowflake.com/en/en/user-guide/cleanrooms/introduction"
+  },
+  {
+    "id": "f164_ref_009",
+    "type": "webpage",
+    "title": "Overview of Snowflake Data Clean Rooms",
+    "URL": "https://docs.snowflake.com/en/user-guide/cleanrooms/overview",
+    "author": [
+      {
+        "literal": "Snowflake"
+      }
+    ],
+    "note": "Published reference slots: ref-009. Published context: [9] Snowflake, “Overview of Snowflake Data Clean Rooms”. https://docs.snowflake.com/en/user-guide/cleanrooms/overview"
+  },
+  {
+    "id": "f164_ref_010",
+    "type": "webpage",
+    "title": "What is Databricks Clean Rooms?",
+    "URL": "https://docs.databricks.com/aws/en/clean-rooms/",
+    "author": [
+      {
+        "literal": "Databricks"
+      }
+    ],
+    "note": "Published reference slots: ref-010. Published context: [10] Databricks, “What is Databricks Clean Rooms?”. https://docs.databricks.com/aws/en/clean-rooms/"
+  },
+  {
+    "id": "f164_ref_011",
+    "type": "webpage",
+    "title": "Run notebooks in clean rooms",
+    "URL": "https://docs.databricks.com/aws/en/clean-rooms/clean-room-notebook",
+    "author": [
+      {
+        "literal": "Databricks"
+      }
+    ],
+    "note": "The release describes an update or preview date; it is not installed as a publication date. Published reference slots: ref-011. Published context: [11] Databricks, “Run notebooks in clean rooms,” updated October 6, 2026. https://docs.databricks.com/aws/en/clean-rooms/clean-room-notebook"
+  },
+  {
+    "id": "f164_ref_012",
+    "type": "webpage",
+    "title": "Run JAR workloads in Databricks clean rooms",
+    "URL": "https://docs.databricks.com/aws/en/clean-rooms/clean-room-jar-task",
+    "author": [
+      {
+        "literal": "Databricks"
+      }
+    ],
+    "note": "The release describes an update or preview date; it is not installed as a publication date. Published reference slots: ref-012. Published context: [12] Databricks, “Run JAR workloads in Databricks clean rooms,” October 2026 public preview. https://docs.databricks.com/aws/en/clean-rooms/clean-room-jar-task"
+  },
+  {
+    "id": "f164_ref_013",
+    "type": "webpage",
+    "title": "Share sensitive data with data clean rooms",
+    "URL": "https://docs.cloud.google.com/bigquery/docs/data-clean-rooms",
+    "author": [
+      {
+        "literal": "Google Cloud"
+      }
+    ],
+    "note": "Published reference slots: ref-013. Published context: [13] Google Cloud, “Share sensitive data with data clean rooms”. https://docs.cloud.google.com/bigquery/docs/data-clean-rooms"
+  },
+  {
+    "id": "f164_ref_014",
+    "type": "webpage",
+    "title": "Cleanroom and Multi-party Data Analytics",
+    "URL": "https://learn.microsoft.com/en-us/azure/confidential-computing/multi-party-data",
+    "author": [
+      {
+        "literal": "Microsoft Learn"
+      }
+    ],
+    "note": "Published reference slots: ref-014. Published context: [14] Microsoft Learn, “Cleanroom and Multi-party Data Analytics”. https://learn.microsoft.com/en-us/azure/confidential-computing/multi-party-data"
+  },
+  {
+    "id": "f164_ref_015",
+    "type": "webpage",
+    "title": "Azure Confidential Clean Rooms",
+    "URL": "https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-clean-rooms",
+    "author": [
+      {
+        "literal": "Microsoft Learn"
+      }
+    ],
+    "note": "Published reference slots: ref-015. Published context: [15] Microsoft Learn, “Azure Confidential Clean Rooms”. https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-clean-rooms"
+  },
+  {
+    "id": "f164_ref_016",
+    "type": "webpage",
+    "title": "Privacy-first data collaboration",
+    "URL": "https://www.infosum.com/platform/privacy",
+    "author": [
+      {
+        "literal": "InfoSum"
+      }
+    ],
+    "note": "Published reference slots: ref-016. Published context: [16] InfoSum, “Privacy-first data collaboration”. https://www.infosum.com/platform/privacy"
+  },
+  {
+    "id": "f164_ref_017",
+    "type": "webpage",
+    "title": "Introducing the InfoSum Data Clean Room",
+    "URL": "https://support.infosum.com/hc/en-us/articles/20230364634258-Introducing-the-InfoSum-Data-Clean-Room",
+    "author": [
+      {
+        "literal": "InfoSum"
+      }
+    ],
+    "note": "Published reference slots: ref-017. Published context: [17] InfoSum, “Introducing the InfoSum Data Clean Room”. https://support.infosum.com/hc/en-us/articles/20230364634258-Introducing-the-InfoSum-Data-Clean-Room"
+  },
+  {
+    "id": "f164_ref_018",
+    "type": "webpage",
+    "title": "Product",
+    "URL": "https://rosemanlabs.com/en/product",
+    "author": [
+      {
+        "literal": "Roseman Labs"
+      }
+    ],
+    "note": "Published reference slots: ref-018. Published context: [18] Roseman Labs, “Product”. https://rosemanlabs.com/en/product"
+  },
+  {
+    "id": "f164_ref_019",
+    "type": "webpage",
+    "title": "FAQs",
+    "URL": "https://support.rosemanlabs.com/faq",
+    "author": [
+      {
+        "literal": "Roseman Labs"
+      }
+    ],
+    "note": "Published reference slots: ref-019. Published context: [19] Roseman Labs, “FAQs”. https://support.rosemanlabs.com/faq"
+  },
+  {
+    "id": "f164_ref_020",
+    "type": "webpage",
+    "title": "Introducing AI Insights: data clean room results in plain language",
+    "URL": "https://www.decentriq.com/article/ai-insights",
+    "author": [
+      {
+        "family": "Sturzenegger",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-020. Published context: [20] David Sturzenegger (Decentriq), “Introducing AI Insights: data clean room results in plain language,” October 1, 2026. https://www.decentriq.com/article/ai-insights"
+  },
+  {
+    "id": "f164_ref_021",
+    "type": "webpage",
+    "title": "Why GDPR stalls European data clean room partnerships (and the fix)",
+    "URL": "https://www.decentriq.com/article/why-gdpr-stalls-european-data-collaboration",
+    "author": [
+      {
+        "family": "Lutenski",
+        "given": "Erin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-021. Published context: [21] Decentriq, Erin Lutenski, “Why GDPR stalls European data clean room partnerships (and the fix),” June 29, 2026. https://www.decentriq.com/article/why-gdpr-stalls-european-data-collaboration"
+  },
+  {
+    "id": "f164_ref_022",
+    "type": "webpage",
+    "title": "LiveRamp Clean Room Architecture Deep Dive",
+    "URL": "https://liveramp.com/blog/liveramp-clean-room-architecture",
+    "author": [
+      {
+        "family": "Sharma",
+        "given": "Siddharth"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          14
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-022. Published context: [22] Siddharth Sharma (LiveRamp), “LiveRamp Clean Room Architecture Deep Dive,” February 14, 2025. https://liveramp.com/blog/liveramp-clean-room-architecture"
+  },
+  {
+    "id": "f164_ref_023",
+    "type": "webpage",
+    "title": "Agentic AI Orchestration for Marketing",
+    "URL": "https://liveramp.com/our-platform/agentic-ai",
+    "author": [
+      {
+        "literal": "LiveRamp"
+      }
+    ],
+    "note": "Published reference slots: ref-023. Published context: [23] LiveRamp, “Agentic AI Orchestration for Marketing”. https://liveramp.com/our-platform/agentic-ai"
+  },
+  {
+    "id": "f164_ref_024",
+    "type": "webpage",
+    "title": "Legacy Provider and Consumer clean rooms end-of-life notice",
+    "URL": "https://docs.snowflake.com/en/user-guide/cleanrooms/manage-clean-rooms",
+    "author": [
+      {
+        "literal": "Snowflake"
+      }
+    ],
+    "note": "Published reference slots: ref-024. Published context: [24] Snowflake, “Legacy Provider and Consumer clean rooms end-of-life notice”. https://docs.snowflake.com/en/user-guide/cleanrooms/manage-clean-rooms"
+  },
+  {
+    "id": "f164_ref_025",
+    "type": "webpage",
+    "title": "Snowflake Data Clean Rooms Agent",
+    "URL": "https://docs.snowflake.com/en/user-guide/cleanrooms/dcr-agent",
+    "author": [
+      {
+        "literal": "Snowflake"
+      }
+    ],
+    "note": "Published reference slots: ref-025. Published context: [25] Snowflake, “Snowflake Data Clean Rooms Agent”. https://docs.snowflake.com/en/user-guide/cleanrooms/dcr-agent"
+  },
+  {
+    "id": "f164_ref_026",
+    "type": "webpage",
+    "title": "Data Clean Rooms: Separating Fact from Fiction",
+    "URL": "https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/11/data-clean-rooms-separating-fact-fiction",
+    "author": [
+      {
+        "literal": "U.S. Federal Trade Commission"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-026. Published context: [26] U.S. Federal Trade Commission, “Data Clean Rooms: Separating Fact from Fiction,” November 2024. https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/11/data-clean-rooms-separating-fact-fiction"
+  },
+  {
+    "id": "f164_ref_027",
+    "type": "webpage",
+    "title": "How synthetic data and clean rooms are redefining secure data collaboration",
+    "URL": "https://www.idc.com/resource-center/blog/how-synthetic-data-and-clean-rooms-are-redefining-secure-data-collaboration/",
+    "author": [
+      {
+        "family": "Cardoza",
+        "given": "Christina"
+      },
+      {
+        "family": "Schneider",
+        "given": "Lynne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-027. Published context: [27] Christina Cardoza and Lynne Schneider (IDC), “How synthetic data and clean rooms are redefining secure data collaboration,” December 5, 2025. https://www.idc.com/resource-center/blog/how-synthetic-data-and-clean-rooms-are-redefining-secure-data-collaboration/"
+  },
+  {
+    "id": "f164_ref_028",
+    "type": "webpage",
+    "title": "Data Clean Rooms Guidance",
+    "URL": "https://iabtechlab.com/datacleanrooms/",
+    "author": [
+      {
+        "literal": "IAB Tech Lab"
+      }
+    ],
+    "note": "Published reference slots: ref-028. Published context: [28] IAB Tech Lab, “Data Clean Rooms Guidance”. https://iabtechlab.com/datacleanrooms/"
+  },
+  {
+    "id": "f164_ref_029",
+    "type": "webpage",
+    "title": "About the Secure Research Service",
+    "URL": "https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/aboutthesecureresearchservice",
+    "author": [
+      {
+        "literal": "ONS"
+      }
+    ],
+    "note": "Published reference slots: ref-029. Published context: [29] ONS, “About the Secure Research Service”. https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/aboutthesecureresearchservice"
+  },
+  {
+    "id": "f164_ref_030",
+    "type": "webpage",
+    "title": "Engager un rééquilibrage privé/public par les données",
+    "URL": "https://linc.cnil.fr/ip5-engager-un-reequilibrage-privepublic-par-les-donnees",
+    "author": [
+      {
+        "family": "Chatellier",
+        "given": "Régis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "note": "English title: Rebalancing the relationship between the private and public sectors through data. Published reference slots: ref-030. Published context: [30] Régis Chatellier, « Engager un rééquilibrage privé/public par les données » [Rebalancing the relationship between the private and public sectors through data], CNIL/LINC, 2017. https://linc.cnil.fr/ip5-engager-un-reequilibrage-privepublic-par-les-donnees"
+  },
+  {
+    "id": "f164_ref_031",
+    "type": "article-journal",
+    "title": "国内外可信数据空间研究综述",
+    "container-title": "数字图书馆论坛",
+    "volume": "22",
+    "issue": "3",
+    "page": "1–10",
+    "URL": "https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202603003&flag=1",
+    "author": [
+      {
+        "literal": "盛小平"
+      },
+      {
+        "literal": "奉晓娟"
+      },
+      {
+        "literal": "方向明"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "English title: A review of research on trusted data spaces in China and abroad. Published reference slots: ref-031. Published context: [31] 盛小平、奉晓娟、方向明,《国内外可信数据空间研究综述》 [A review of research on trusted data spaces in China and abroad],《数字图书馆论坛》22(3):1–10, 2026. https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202603003&flag=1"
+  },
+  {
+    "id": "f164_ref_032",
+    "type": "article-journal",
+    "title": "隐私计算技术赋能数据流通：现状审视、发展困境和政策建议",
+    "container-title": "企业经济",
+    "volume": "44",
+    "issue": "7",
+    "page": "97–106",
+    "URL": "https://quit.cbpt.cnki.net/portal/journal/portal/client/paper/81a6b95cf07b9d741f0e8704b6718a36",
+    "author": [
+      {
+        "literal": "蔡曦"
+      },
+      {
+        "literal": "夏杰长"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "English title: Privacy-preserving computation technologies enabling data circulation: Current status, development challenges, and policy recommendations. Published reference slots: ref-032. Published context: [32] 蔡曦、夏杰长,《隐私计算技术赋能数据流通：现状审视、发展困境和政策建议》 [Privacy-preserving computation technologies enabling data circulation: Current status, development challenges, and policy recommendations],《企业经济》44(7):97–106, 2025. https://quit.cbpt.cnki.net/portal/journal/portal/client/paper/81a6b95cf07b9d741f0e8704b6718a36"
+  },
+  {
+    "id": "f164_ref_033",
+    "type": "webpage",
+    "title": "可信数据空间发展行动计划（2024—2028年）",
+    "URL": "https://www.nda.gov.cn/sjj/zwgk/zcfb/1122/20241122164142182915964_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "English title: Action plan for the development of trusted data spaces (2024–2028). Published reference slots: ref-033. Published context: [33] 国家数据局,《可信数据空间发展行动计划（2024—2028年）》 [Action plan for the development of trusted data spaces (2024–2028)], November 2024. https://www.nda.gov.cn/sjj/zwgk/zcfb/1122/20241122164142182915964_pc.html"
+  },
+  {
+    "id": "f164_ref_034",
+    "type": "webpage",
+    "title": "The Five Safes Framework",
+    "URL": "https://www.gov.uk/data-ethics-guidance/the-five-safes-framework",
+    "author": [
+      {
+        "literal": "UK Government / Office for National Statistics"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-034. Published context: [34] UK Government / Office for National Statistics, “The Five Safes Framework,” 30 January 2025. https://www.gov.uk/data-ethics-guidance/the-five-safes-framework"
+  },
+  {
+    "id": "f164_ref_035",
+    "type": "webpage",
+    "title": "SRS Research and Data Access Policy",
+    "URL": "https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/onsresearchanddataaccesspolicy",
+    "author": [
+      {
+        "literal": "UK Office for National Statistics"
+      }
+    ],
+    "note": "Published reference slots: ref-035. Published context: [35] UK Office for National Statistics, “SRS Research and Data Access Policy”. https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/onsresearchanddataaccesspolicy"
+  },
+  {
+    "id": "f164_ref_036",
+    "type": "article-journal",
+    "title": "A maturity model framework for federated networks of trusted research environments",
+    "container-title": "Frontiers in Digital Health",
+    "volume": "8",
+    "DOI": "10.3389/fdgth.2026.1699125",
+    "URL": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1699125/full",
+    "author": [
+      {
+        "family": "Luong",
+        "given": "Jasper H. C."
+      },
+      {
+        "family": "Beggs",
+        "given": "Jillian"
+      },
+      {
+        "family": "Ferris",
+        "given": "Jason"
+      },
+      {
+        "family": "Furuta",
+        "given": "Koh"
+      },
+      {
+        "family": "Gorse",
+        "given": "Alain-Dominique"
+      },
+      {
+        "family": "Jefferson",
+        "given": "Emily"
+      },
+      {
+        "family": "Aung",
+        "given": "Khin Mi Mi"
+      },
+      {
+        "family": "Sullivan",
+        "given": "Clair"
+      },
+      {
+        "family": "Woo",
+        "given": "Xing Yi"
+      },
+      {
+        "literal": "The HEALTHWISE Consortium"
+      },
+      {
+        "family": "Cheong",
+        "given": "Io Hong"
+      },
+      {
+        "family": "Kozlakidis",
+        "given": "Zisis"
+      },
+      {
+        "family": "Quinlan",
+        "given": "Philip R."
+      },
+      {
+        "family": "Beck",
+        "given": "Tim"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          15
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-036. Published context: [36] Jasper H. C. Luong, Jillian Beggs, Jason Ferris, Koh Furuta, Alain-Dominique Gorse, Emily Jefferson, Khin Mi Mi Aung, Clair Sullivan, Xing Yi Woo, the HEALTHWISE Consortium, Io Hong Cheong, Zisis Kozlakidis, Philip R. Quinlan, and Tim Beck, “A maturity model framework for federated networks of trusted research environments,” Frontiers in Digital Health 8:1699125, 15 May 2026. DOI: 10.3389/fdgth.2026.1699125. https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1699125/full"
+  },
+  {
+    "id": "f164_ref_037",
+    "type": "article-journal",
+    "title": "Towards a standardised cross-sectoral data access agreement template for research: a core set of principles for data access within trusted research environments",
+    "container-title": "International Journal of Population Data Science",
+    "volume": "8",
+    "issue": "4",
+    "DOI": "10.23889/ijpds.v8i4.2169",
+    "URL": "https://ijpds.org/article/view/2169",
+    "author": [
+      {
+        "family": "Brophy",
+        "given": "Rachel"
+      },
+      {
+        "family": "Bellavia",
+        "given": "Ester"
+      },
+      {
+        "family": "Bluemink",
+        "given": "Maeve Groot"
+      },
+      {
+        "family": "Evans",
+        "given": "Katharine"
+      },
+      {
+        "family": "Hashimi",
+        "given": "Munisa"
+      },
+      {
+        "family": "Macaulay",
+        "given": "Yemi"
+      },
+      {
+        "family": "McNamara",
+        "given": "Edel"
+      },
+      {
+        "family": "Noble",
+        "given": "Allison"
+      },
+      {
+        "family": "Quattroni",
+        "given": "Paola"
+      },
+      {
+        "family": "Rudczenko",
+        "given": "Amanda"
+      },
+      {
+        "family": "Morris",
+        "given": "Andrew D"
+      },
+      {
+        "family": "Smith",
+        "given": "Cassie"
+      },
+      {
+        "family": "Boyd",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-037. Published context: [37] Rachel Brophy, Ester Bellavia, Maeve Groot Bluemink, Katharine Evans, Munisa Hashimi, Yemi Macaulay, Edel McNamara, Allison Noble, Paola Quattroni, Amanda Rudczenko, Andrew D. Morris, Cassie Smith, and Andy Boyd, “Towards a standardised cross-sectoral data access agreement template for research: a core set of principles for data access within trusted research environments,” International Journal of Population Data Science 8(4):2169, 9 October 2023. DOI: 10.23889/ijpds.v8i4.2169. https://ijpds.org/article/view/2169"
+  },
+  {
+    "id": "f164_ref_038",
+    "type": "webpage",
+    "title": "New Study Finds Confidential Computing Emerging as a Strategic Imperative",
+    "URL": "https://confidentialcomputing.io/2025/12/03/new-study-finds-confidential-computing-emerging-as-a-strategic-imperative-for-secure-ai-and-data-collaboration/",
+    "author": [
+      {
+        "literal": "Confidential Computing Consortium/IDC"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          3
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-038. Published context: [38] Confidential Computing Consortium/IDC, “New Study Finds Confidential Computing Emerging as a Strategic Imperative,” December 3, 2025. https://confidentialcomputing.io/2025/12/03/new-study-finds-confidential-computing-emerging-as-a-strategic-imperative-for-secure-ai-and-data-collaboration/"
+  },
+  {
+    "id": "f164_ref_039",
+    "type": "webpage",
+    "title": "White Papers & Reports",
+    "URL": "https://confidentialcomputing.io/resources/white-papers-reports/",
+    "author": [
+      {
+        "literal": "Confidential Computing Consortium"
+      }
+    ],
+    "note": "Published reference slots: ref-039. Published context: [39] Confidential Computing Consortium, “White Papers & Reports”. https://confidentialcomputing.io/resources/white-papers-reports/"
+  },
+  {
+    "id": "f164_ref_040",
+    "type": "webpage",
+    "title": "The Collaborative Confidential Clean Room",
+    "URL": "https://confidentialcomputing.io/wp-content/uploads/sites/10/2026/09/CCC-Blueprint-C-2026.pdf",
+    "author": [
+      {
+        "literal": "Confidential Computing Consortium"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Kolga",
+        "given": "Rene"
+      },
+      {
+        "family": "Sun",
+        "given": "Mingshen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-040. Published context: [40] Confidential Computing Consortium; lead editors Rene Kolga and Mingshen Sun, “The Collaborative Confidential Clean Room,” August 2026. https://confidentialcomputing.io/wp-content/uploads/sites/10/2026/09/CCC-Blueprint-C-2026.pdf"
+  },
+  {
+    "id": "f164_ref_041",
+    "type": "article-journal",
+    "title": "Verifiability for privacy-preserving computing on distributed data — a survey",
+    "container-title": "International Journal of Information Security",
+    "volume": "24",
+    "issue": "3",
+    "DOI": "10.1007/s10207-025-01047-7",
+    "URL": "https://link.springer.com/article/10.1007/s10207-025-01047-7",
+    "author": [
+      {
+        "family": "Bontekoe",
+        "given": "Tariq"
+      },
+      {
+        "family": "Karastoyanova",
+        "given": "Dimka"
+      },
+      {
+        "family": "Turkmen",
+        "given": "Fatih"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          24
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-041. Published context: [41] Tariq Bontekoe, Dimka Karastoyanova, Fatih Turkmen, “Verifiability for privacy-preserving computing on distributed data — a survey,” International Journal of Information Security 24, article 141, 2025. https://link.springer.com/article/10.1007/s10207-025-01047-7"
+  },
+  {
+    "id": "f164_ref_042",
+    "type": "report",
+    "title": "Guidelines for evaluating differential privacy guarantees",
+    "DOI": "10.6028/nist.sp.800-226",
+    "URL": "https://csrc.nist.gov/pubs/sp/800/226/final",
+    "author": [
+      {
+        "family": "Near",
+        "given": "Joseph P"
+      },
+      {
+        "family": "Darais",
+        "given": "David"
+      },
+      {
+        "family": "Lefkovitz",
+        "given": "Naomi"
+      },
+      {
+        "family": "Howarth",
+        "given": "Gary S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-042. Published context: [42] Joseph P. Near, David Darais, Naomi Lefkovitz, and Gary S. Howarth, “Guidelines for Evaluating Differential Privacy Guarantees,” NIST Special Publication 800-226, March 2025. DOI: 10.6028/NIST.SP.800-226. https://csrc.nist.gov/pubs/sp/800/226/final"
+  },
+  {
+    "id": "f164_ref_043",
+    "type": "article-journal",
+    "title": "数据要素流通全流程隐私关键技术：现状、挑战与展望",
+    "container-title": "软件学报",
+    "volume": "37",
+    "issue": "1",
+    "page": "301–325",
+    "DOI": "10.13328/j.cnki.jos.007478",
+    "URL": "https://www.jos.org.cn/html/7478.htm",
+    "author": [
+      {
+        "literal": "刘立伟"
+      },
+      {
+        "literal": "傅超豪"
+      },
+      {
+        "literal": "孙泽堃"
+      },
+      {
+        "literal": "周耘"
+      },
+      {
+        "literal": "阮娜"
+      },
+      {
+        "literal": "蒋昌俊"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "English title: Key privacy technologies throughout the data circulation lifecycle: Current status, challenges, and prospects. Published reference slots: ref-043. Published context: [43] 刘立伟、傅超豪、孙泽堃、周耘、阮娜、蒋昌俊,《数据要素流通全流程隐私关键技术：现状、挑战与展望》 [Key privacy technologies throughout the data circulation lifecycle: Current status, challenges, and prospects],《软件学报》37(1):301–325, 2026. https://www.jos.org.cn/html/7478.htm"
+  },
+  {
+    "id": "f164_ref_044",
+    "type": "article-journal",
+    "title": "面向隐私计算的可信执行环境综述",
+    "container-title": "计算机应用",
+    "volume": "45",
+    "issue": "2",
+    "page": "467–481",
+    "DOI": "10.11772/j.issn.1001-9081.2024020222",
+    "URL": "https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024020222",
+    "author": [
+      {
+        "literal": "张涵"
+      },
+      {
+        "literal": "于航"
+      },
+      {
+        "literal": "周继威"
+      },
+      {
+        "literal": "白云开"
+      },
+      {
+        "literal": "赵路坦"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "English title: Survey on trusted execution environment towards privacy computing. Published reference slots: ref-044. Published context: [44] 张涵、于航、周继威、白云开、赵路坦,《面向隐私计算的可信执行环境综述》 [Survey on trusted execution environment towards privacy computing],《计算机应用》45(2):467–481, 2025. https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024020222"
+  },
+  {
+    "id": "f164_ref_045",
+    "type": "standard",
+    "title": "可信数据空间 技术架构",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/0430/20250430181352183912672_pc.html",
+    "author": [
+      {
+        "literal": "全国数据标准化技术委员会"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "note": "English title: Trusted data spaces: Technical architecture. Published reference slots: ref-045. Published context: [45] 全国数据标准化技术委员会,《可信数据空间 技术架构》 [Trusted data spaces: Technical architecture], April 2025. https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/0430/20250430181352183912672_pc.html"
+  },
+  {
+    "id": "f164_ref_046",
+    "type": "webpage",
+    "title": "mediarithmics lance une Data Clean Room pour permettre à ses clients d’enrichir leurs activations data en toute sécurité",
+    "URL": "https://www.mediarithmics.io/news/mediarithmics-lance-une-data-clean-room-pour-permettre-a-ses-clients-denrichir-leurs-activations-data-en-toute-securite",
+    "author": [
+      {
+        "literal": "mediarithmics"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7
+        ]
+      ]
+    },
+    "note": "English title: mediarithmics launches a Data Clean Room to enable its clients to enrich their data activations securely. Published reference slots: ref-046. Published context: [46] mediarithmics, « mediarithmics lance une Data Clean Room pour permettre à ses clients d’enrichir leurs activations data en toute sécurité » [mediarithmics launches a Data Clean Room to enable its clients to enrich their data activations securely], July 2024. https://www.mediarithmics.io/news/mediarithmics-lance-une-data-clean-room-pour-permettre-a-ses-clients-denrichir-leurs-activations-data-en-toute-securite"
+  },
+  {
+    "id": "f164_ref_047",
+    "type": "webpage",
+    "title": "Mes données seront-elles visibles sur la plateforme avant l’acquisition ?",
+    "URL": "https://help-participant.dawex.com/fr/support/solutions/articles/36000048972-mes-donn%C3%A9es-seront-elles-visibles-sur-la-plateforme-avant-l-acquisition-",
+    "author": [
+      {
+        "literal": "Dawex"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          14
+        ]
+      ]
+    },
+    "note": "English title: Will my data be visible on the platform before acquisition?. Published reference slots: ref-047. Published context: [47] Dawex, « Mes données seront-elles visibles sur la plateforme avant l’acquisition ? » [Will my data be visible on the platform before acquisition?] (2024-08-14) https://help-participant.dawex.com/fr/support/solutions/articles/36000048972-mes-donn%C3%A9es-seront-elles-visibles-sur-la-plateforme-avant-l-acquisition-"
+  },
+  {
+    "id": "f164_ref_048",
+    "type": "webpage",
+    "title": "Quelles données puis-je fournir ?",
+    "URL": "https://help-participant.dawex.com/fr/support/solutions/articles/36000049030-quelles-donn%C3%A9es-puis-je-fournir-",
+    "author": [
+      {
+        "literal": "Dawex"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "English title: What data can I provide?. Published reference slots: ref-048. Published context: [48] Dawex, « Quelles données puis-je fournir ? » [What data can I provide?] (2024-08-06) https://help-participant.dawex.com/fr/support/solutions/articles/36000049030-quelles-donn%C3%A9es-puis-je-fournir-"
+  },
+  {
+    "id": "f164_ref_049",
+    "type": "webpage",
+    "title": "Finding value with Multi Party Computation",
+    "URL": "https://rosemanlabs.com/en/blogs/finding-value-with-multi-party-computation",
+    "author": [
+      {
+        "literal": "Roseman Labs"
+      }
+    ],
+    "note": "Published reference slots: ref-049. Published context: [49] Roseman Labs, “Finding value with Multi Party Computation”. https://rosemanlabs.com/en/blogs/finding-value-with-multi-party-computation"
+  },
+  {
+    "id": "f164_ref_050",
+    "type": "webpage",
+    "title": "Data Collaboration Platform",
+    "URL": "https://liveramp.com/our-platform",
+    "author": [
+      {
+        "literal": "LiveRamp"
+      }
+    ],
+    "note": "Published reference slots: ref-050. Published context: [50] LiveRamp, “Data Collaboration Platform”. https://liveramp.com/our-platform"
+  },
+  {
+    "id": "f164_ref_051",
+    "type": "webpage",
+    "title": "「秘密計算活用事例集」第2版・実践ガイドライン",
+    "URL": "https://www.ntt.com/about-us/information/info_20260325.html",
+    "author": [
+      {
+        "literal": "NTTドコモビジネス"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          25
+        ]
+      ]
+    },
+    "note": "The published author list is abbreviated; additional names remain unspecified. The cited object is the announcement covering the second-edition use-case compilation and practical guidelines; the component publications are not separately identified in the release. English title: Secure computation use cases, second edition, and practical guidelines. Published reference slots: ref-051. Published context: [51] NTTドコモビジネスほか,「秘密計算活用事例集」第2版・実践ガイドライン [Secure computation use cases, second edition, and practical guidelines], 2026-03-25. https://www.ntt.com/about-us/information/info_20260325.html"
+  },
+  {
+    "id": "f164_ref_052",
+    "type": "webpage",
+    "title": "析秘 -SeCIHI-",
+    "URL": "https://www.ntt.com/business/services/secihi.html",
+    "author": [
+      {
+        "literal": "NTTドコモビジネス"
+      }
+    ],
+    "note": "Published reference slots: ref-052. Published context: [52] NTTドコモビジネス, 析秘 -SeCIHI-. https://www.ntt.com/business/services/secihi.html"
+  },
+  {
+    "id": "f164_ref_053",
+    "type": "webpage",
+    "title": "Gefedereerde analyse",
+    "URL": "https://www.health-ri.nl/en/gefedereerde-analyse",
+    "author": [
+      {
+        "literal": "Health-RI"
+      }
+    ],
+    "note": "English title: Federated analysis. Published reference slots: ref-053. Published context: [53] Health-RI, «Gefedereerde analyse» [Federated analysis]. https://www.health-ri.nl/en/gefedereerde-analyse"
+  },
+  {
+    "id": "f164_ref_054",
+    "type": "webpage",
+    "title": "Personal Health Train – Distributed Learning Community",
+    "URL": "https://www.health-ri.nl/personal-health-train-federated-learning",
+    "author": [
+      {
+        "literal": "Health-RI"
+      }
+    ],
+    "note": "Published reference slots: ref-054. Published context: [54] Health-RI, Personal Health Train – Distributed Learning Community. https://www.health-ri.nl/personal-health-train-federated-learning"
+  },
+  {
+    "id": "f164_ref_055",
+    "type": "webpage",
+    "title": "FATE 中文文档",
+    "URL": "https://github.com/FederatedAI/DOC-CHN",
+    "author": [
+      {
+        "literal": "FederatedAI/微众银行"
+      }
+    ],
+    "note": "English title: FATE Chinese documentation. Published reference slots: ref-055. Published context: [55] FederatedAI/微众银行,《FATE 中文文档》 [FATE Chinese documentation]. https://github.com/FederatedAI/DOC-CHN"
+  },
+  {
+    "id": "f164_ref_056",
+    "type": "webpage",
+    "title": "架构",
+    "URL": "https://secretflow.readthedocs.io/zh-cn/stable/developer/design/architecture.html",
+    "author": [
+      {
+        "literal": "隐语 SecretFlow"
+      }
+    ],
+    "note": "English title: Architecture. Published reference slots: ref-056. Published context: [56] 隐语 SecretFlow,《架构》 [Architecture]. https://secretflow.readthedocs.io/zh-cn/stable/developer/design/architecture.html"
+  },
+  {
+    "id": "f164_ref_057",
+    "type": "software",
+    "title": "SCQL 安全协同查询",
+    "URL": "https://github.com/secretflow/scql",
+    "author": [
+      {
+        "literal": "SecretFlow-SCQL"
+      }
+    ],
+    "note": "English title: SCQL secure collaborative querying. Published reference slots: ref-057. Published context: [57] SecretFlow-SCQL,《SCQL 安全协同查询》 [SCQL secure collaborative querying]. https://github.com/secretflow/scql"
+  },
+  {
+    "id": "f164_ref_058",
+    "type": "software",
+    "title": "Kuscia",
+    "URL": "https://github.com/secretflow/kuscia",
+    "author": [
+      {
+        "literal": "SecretFlow"
+      }
+    ],
+    "note": "Published reference slots: ref-058. Published context: [58] SecretFlow,《Kuscia》. https://github.com/secretflow/kuscia"
+  },
+  {
+    "id": "f164_ref_059",
+    "type": "webpage",
+    "title": "企業横断の統計的なデータ活用による社会課題解決を実現する秘匿クロス統計技術",
+    "URL": "https://journal.ntt.co.jp/article/23744",
+    "author": [
+      {
+        "literal": "NTT技術ジャーナル"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "English title: Confidential cross-statistical analysis technology for solving societal challenges through statistical use of data across companies. Published reference slots: ref-059. Published context: [59] NTT技術ジャーナル, 企業横断の統計的なデータ活用による社会課題解決を実現する秘匿クロス統計技術 [Confidential cross-statistical analysis technology for solving societal challenges through statistical use of data across companies], 2023. https://journal.ntt.co.jp/article/23744"
+  },
+  {
+    "id": "f164_ref_060",
+    "type": "patent",
+    "title": "秘密計算システム、装置、方法及びプログラム",
+    "URL": "https://patents.google.com/patent/JP7589815B2/ja",
+    "author": [
+      {
+        "literal": "日本電信電話株式会社"
+      }
+    ],
+    "number": "JP7589815B2",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          26
+        ]
+      ]
+    },
+    "note": "English title: Secure computation system, apparatus, method, and program. Published reference slots: ref-060. Published context: [60] 日本電信電話株式会社. 秘密計算システム、装置、方法及びプログラム [Secure computation system, apparatus, method, and program]. JP7589815B2. 2024-11-26. https://patents.google.com/patent/JP7589815B2/ja"
+  },
+  {
+    "id": "f164_ref_061",
+    "type": "patent",
+    "title": "Verfahren und System zur sicheren Mehrparteienberechnung",
+    "URL": "https://patents.google.com/patent/DE102022123548B4/en",
+    "author": [
+      {
+        "family": "Jager",
+        "given": "Tibor"
+      }
+    ],
+    "number": "DE102022123548B4",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "note": "English title: Method and system for secure multiparty computation. Published reference slots: ref-061. Published context: [61] Bergische Universität Wuppertal / Tibor Jager, “Verfahren und System zur sicheren Mehrparteienberechnung” [Method and system for secure multiparty computation], German priority 2022-09-14, DE102022123548B4 granted May 2024. https://patents.google.com/patent/DE102022123548B4/en"
+  },
+  {
+    "id": "f164_ref_062",
+    "type": "patent",
+    "title": "동형암호 기반 연산 결과의 영지식증명 자동 생성 서버 및 이의 검증 방법",
+    "URL": "https://patents.google.com/patent/KR102956047B1/ko",
+    "author": [
+      {
+        "literal": "김범진"
+      },
+      {
+        "literal": "김상환"
+      },
+      {
+        "literal": "김기수"
+      }
+    ],
+    "number": "KR102956047B1",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          22
+        ]
+      ]
+    },
+    "note": "English title: Server for automatically generating zero-knowledge proofs of homomorphic encryption computation results and method for verifying them. Published reference slots: ref-062. Published context: [62] 김범진、김상환、김기수, 「동형암호 기반 연산 결과의 영지식증명 자동 생성 서버 및 이의 검증 방법」 [Server for automatically generating zero-knowledge proofs of homomorphic encryption computation results and method for verifying them], KR102956047B1, granted 22 April 2026; assignee 주식회사 에이다루트. https://patents.google.com/patent/KR102956047B1/ko"
+  },
+  {
+    "id": "f164_ref_063",
+    "type": "patent",
+    "title": "Компьютерно-реализуемый способ обработки информации об объектах",
+    "URL": "https://patents.google.com/patent/RU2722538C1/ru",
+    "author": [
+      {
+        "literal": "Саттаров"
+      },
+      {
+        "literal": "Емельянов"
+      },
+      {
+        "literal": "Воронин"
+      }
+    ],
+    "number": "RU2722538C1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "note": "English title: Computer-implemented method for processing information about objects. Published reference slots: ref-063. Published context: [63] Саттаров, Емельянов, Воронин, «Компьютерно-реализуемый способ обработки информации об объектах» [Computer-implemented method for processing information about objects], RU2722538C1 (2020). https://patents.google.com/patent/RU2722538C1/ru"
+  },
+  {
+    "id": "f164_ref_064",
+    "type": "thesis",
+    "title": "Contributions à la confidentialité des données en apprentissage machine par chiffrement homomorphe",
+    "URL": "https://theses.fr/api/v1/document/2020UPASG048",
+    "author": [
+      {
+        "family": "Zuber",
+        "given": "Martin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "note": "English title: Contributions to data confidentiality in machine learning through homomorphic encryption. Published reference slots: ref-064. Published context: [64] Martin Zuber, « Contributions à la confidentialité des données en apprentissage machine par chiffrement homomorphe » [Contributions to data confidentiality in machine learning through homomorphic encryption], thèse, Université Paris-Saclay, 2020. https://theses.fr/api/v1/document/2020UPASG048"
+  },
+  {
+    "id": "f164_ref_065",
+    "type": "webpage",
+    "title": "Cybersécurité : Défis actuels et axes de recherche à l’Inria",
+    "URL": "https://gallium.inria.fr/~remy/livre_blanc_cybersecurite/livre_blanc_cybersecurite_resume_fr.html",
+    "author": [
+      {
+        "family": "Kremer",
+        "given": "Steve"
+      },
+      {
+        "family": "Mé",
+        "given": "Ludovic"
+      },
+      {
+        "family": "Rémy",
+        "given": "Didier"
+      },
+      {
+        "family": "Roca",
+        "given": "Vincent"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          5
+        ]
+      ]
+    },
+    "note": "English title: Cybersecurity: Current challenges and research directions at Inria. Published reference slots: ref-065. Published context: [65] Steve Kremer, Ludovic Mé, Didier Rémy, Vincent Roca, « Cybersécurité : Défis actuels et axes de recherche à l’Inria » [Cybersecurity: Current challenges and research directions at Inria], mai 2019. https://gallium.inria.fr/~remy/livre_blanc_cybersecurite/livre_blanc_cybersecurite_resume_fr.html"
+  },
+  {
+    "id": "f164_ref_066",
+    "type": "thesis",
+    "title": "Chiffrement totalement homomorphe pour l’apprentissage automatique",
+    "URL": "https://dblp.org/rec/phd/hal/Minelli18",
+    "author": [
+      {
+        "family": "Minelli",
+        "given": "Michele"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "note": "English title: Fully Homomorphic Encryption for Machine Learning. Published reference slots: ref-066. Published context: [66] Michele Minelli, « Chiffrement totalement homomorphe pour l’apprentissage automatique » [Fully Homomorphic Encryption for Machine Learning], thèse, ENS/PSL, 2018. https://dblp.org/rec/phd/hal/Minelli18"
+  },
+  {
+    "id": "f164_ref_067",
+    "type": "webpage",
+    "title": "On a testé le chiffrement homomorphe !",
+    "URL": "https://linc.cnil.fr/teste-le-chiffrement-homomorphe",
+    "author": [
+      {
+        "family": "Azraoui",
+        "given": "Monir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "note": "English title: We tested homomorphic encryption!. Published reference slots: ref-067. Published context: [67] Monir Azraoui / CNIL/LINC, « On a testé le chiffrement homomorphe ! » [We tested homomorphic encryption!], March 2025. https://linc.cnil.fr/teste-le-chiffrement-homomorphe"
+  },
+  {
+    "id": "f164_ref_068",
+    "type": "webpage",
+    "title": "Les pratiques de chiffrement dans l’informatique en nuage (cloud) public",
+    "URL": "https://cnil.fr/fr/les-pratiques-de-chiffrement-dans-linformatique-en-nuage-cloud-public",
+    "author": [
+      {
+        "literal": "CNIL"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "English title: Encryption practices in public cloud computing. Published reference slots: ref-068. Published context: [68] CNIL, « Les pratiques de chiffrement dans l’informatique en nuage (cloud) public » [Encryption practices in public cloud computing] (2024) https://cnil.fr/fr/les-pratiques-de-chiffrement-dans-linformatique-en-nuage-cloud-public"
+  },
+  {
+    "id": "f164_ref_069",
+    "type": "patent",
+    "title": "Méthode d’interrogation confidentielle d’une base de données",
+    "URL": "https://patents.google.com/patent/WO2025027253A1/fr",
+    "author": [
+      {
+        "family": "Sirdey",
+        "given": "Renaud"
+      },
+      {
+        "family": "Boudguiga",
+        "given": "Aymen"
+      },
+      {
+        "family": "Zuber",
+        "given": "Martin"
+      },
+      {
+        "family": "Stan",
+        "given": "Oana"
+      }
+    ],
+    "number": "WO2025027253A1",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Method for confidential querying of a database. Published reference slots: ref-069. Published context: [69] CEA; Renaud Sirdey, Aymen Boudguiga, Martin Zuber, and Oana Stan, « Méthode d’interrogation confidentielle d’une base de données » [Method for confidential querying of a database], WO2025027253A1, published 6 February 2025. https://patents.google.com/patent/WO2025027253A1/fr"
+  },
+  {
+    "id": "f164_ref_070",
+    "type": "patent",
+    "title": "Procédé et système client-serveur anti-collusion pour données chiffrées en homomorphe",
+    "URL": "https://patents.google.com/patent/WO2024141743A1/fr",
+    "author": [
+      {
+        "family": "Sirdey",
+        "given": "Renaud"
+      },
+      {
+        "family": "Boudguiga",
+        "given": "Aymen"
+      },
+      {
+        "family": "Zuber",
+        "given": "Martin"
+      }
+    ],
+    "number": "WO2024141743A1",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          4
+        ]
+      ]
+    },
+    "note": "English title: Anti-collusion client-server method and system for homomorphically encrypted data. Published reference slots: ref-070. Published context: [70] CEA; Renaud Sirdey, Aymen Boudguiga, and Martin Zuber, « Procédé et système client-serveur anti-collusion pour données chiffrées en homomorphe » [Anti-collusion client-server method and system for homomorphically encrypted data], WO2024141743A1, published 4 July 2024. https://patents.google.com/patent/WO2024141743A1/fr"
+  },
+  {
+    "id": "f164_ref_071",
+    "type": "patent",
+    "title": "Méthode d’interrogation confidentielle d’une base de données",
+    "URL": "https://patents.google.com/patent/EP4672066A1/fr",
+    "author": [
+      {
+        "family": "Quero",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Sirdey",
+        "given": "Renaud"
+      },
+      {
+        "family": "Boudguiga",
+        "given": "Aymen"
+      },
+      {
+        "family": "Karam",
+        "given": "Nadir"
+      },
+      {
+        "family": "Sinh",
+        "given": "Quentin"
+      }
+    ],
+    "number": "EP4672066A1",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ]
+    },
+    "note": "The published reference identifies a patent-family member as context; the linked patent publication is the cited bibliographic object. English title: Method for confidential querying of a database. Published reference slots: ref-071. Published context: [71] Expleo France / CEA — Nicolas Quero, Renaud Sirdey, Aymen Boudguiga, Nadir Karam, Quentin Sinh, « Méthode d’interrogation confidentielle d’une base de données » [Method for confidential querying of a database], EP4672066A1, published 2025-12-31; French priority FR2407043 (family FR3164041A1) https://patents.google.com/patent/EP4672066A1/fr"
+  },
+  {
+    "id": "f164_ref_072",
+    "type": "patent",
+    "title": "Procédé, systèmes et services cryptographiques d’évaluation de fonctions à valeurs réelles sur des données chiffrées",
+    "URL": "https://patents.google.com/patent/FR3110311B1/fr",
+    "author": [
+      {
+        "family": "Paillier",
+        "given": "Pascal"
+      },
+      {
+        "family": "Joye",
+        "given": "Marc"
+      }
+    ],
+    "number": "FR3110311B1",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          1
+        ]
+      ]
+    },
+    "note": "English title: Cryptographic method, systems, and services for evaluating real-valued functions on encrypted data. Published reference slots: ref-072. Published context: [72] Pascal Paillier and Marc Joye, « Procédé, systèmes et services cryptographiques d’évaluation de fonctions à valeurs réelles sur des données chiffrées » [Cryptographic method, systems, and services for evaluating real-valued functions on encrypted data], FR3110311B1, published 1 July 2022. https://patents.google.com/patent/FR3110311B1/fr"
+  },
+  {
+    "id": "f164_ref_073",
+    "type": "patent",
+    "title": "Système et procédé de commande de bruit dans un système de calcul homomorphe",
+    "URL": "https://patents.google.com/patent/EP4723539A1/fr",
+    "author": [
+      {
+        "literal": "Zama"
+      }
+    ],
+    "number": "EP4723539A1",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ]
+    },
+    "note": "English title: System and method for controlling noise in a homomorphic computation system. Published reference slots: ref-073. Published context: [73] Zama — « Système et procédé de commande de bruit dans un système de calcul homomorphe » [System and method for controlling noise in a homomorphic computation system], EP4723539A1, published 2026-04-08; priority EP24315450.7. https://patents.google.com/patent/EP4723539A1/fr"
+  },
+  {
+    "id": "f164_ref_074",
+    "type": "article-journal",
+    "title": "联邦学习中隐私保护聚合机制综述",
+    "container-title": "计算机应用研究",
+    "volume": "42",
+    "issue": "6",
+    "page": "1601–1610",
+    "DOI": "10.19734/j.issn.1001-3695.2024.10.0451",
+    "URL": "https://www.arocmag.cn/abs/2024.10.0451",
+    "author": [
+      {
+        "literal": "仇健"
+      },
+      {
+        "literal": "马海英"
+      },
+      {
+        "literal": "王占君"
+      },
+      {
+        "literal": "沈金宇"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "English title: Survey of privacy-preserving aggregation mechanisms in federated learning. Published reference slots: ref-074. Published context: [74] 仇健、马海英、王占君、沈金宇,《联邦学习中隐私保护聚合机制综述》 [Survey of privacy-preserving aggregation mechanisms in federated learning],《计算机应用研究》42(6):1601–1610, 2025; DOI 10.19734/j.issn.1001-3695.2024.10.0451. https://www.arocmag.cn/abs/2024.10.0451"
+  },
+  {
+    "id": "f164_ref_075",
+    "type": "article-journal",
+    "title": "基于差分隐私的联邦学习研究综述",
+    "container-title": "计算机应用",
+    "volume": "45",
+    "issue": "10",
+    "page": "3221–3230",
+    "DOI": "10.11772/j.issn.1001-9081.2024101505",
+    "URL": "https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024101505",
+    "author": [
+      {
+        "literal": "张淑芬"
+      },
+      {
+        "literal": "汤本建"
+      },
+      {
+        "literal": "田子坤"
+      },
+      {
+        "literal": "秦肖阳"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "English title: Survey of federated learning based on differential privacy. Published reference slots: ref-075. Published context: [75] 张淑芬、汤本建、田子坤、秦肖阳,《基于差分隐私的联邦学习研究综述》 [Survey of federated learning based on differential privacy],《计算机应用》45(10):3221–3230, 2025; DOI 10.11772/j.issn.1001-9081.2024101505. https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024101505"
+  },
+  {
+    "id": "f164_ref_076",
+    "type": "patent",
+    "title": "Clean room generation for data collaboration and executing clean room task in data processing pipeline",
+    "URL": "https://patents.google.com/patent/US20250103753A1/en",
+    "author": [
+      {
+        "literal": "Databricks"
+      }
+    ],
+    "number": "US20250103753A1",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-076. Published context: [76] Databricks, “Clean room generation for data collaboration and executing clean room task in data processing pipeline,” US20250103753A1 (2025). https://patents.google.com/patent/US20250103753A1/en"
+  },
+  {
+    "id": "f164_ref_077",
+    "type": "patent",
+    "title": "Query validation and processing in data clean rooms",
+    "URL": "https://patents.google.com/patent/US20230401201A1/en",
+    "author": [
+      {
+        "literal": "Snowflake"
+      }
+    ],
+    "number": "US20230401201A1",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-077. Published context: [77] Snowflake, “Query validation and processing in data clean rooms,” US20230401201A1 (2023). https://patents.google.com/patent/US20230401201A1/en"
+  },
+  {
+    "id": "f164_ref_078",
+    "type": "patent",
+    "title": "Sharing of artificial intelligence models in a clean room with controlled data access",
+    "URL": "https://patents.google.com/patent/WO2026107012A1/en",
+    "author": [
+      {
+        "literal": "LiveRamp"
+      }
+    ],
+    "number": "WO2026107012A1",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-078. Published context: [78] LiveRamp, “Sharing of artificial intelligence models in a clean room with controlled data access,” WO2026107012A1 (2026). https://patents.google.com/patent/WO2026107012A1/en"
+  },
+  {
+    "id": "f164_ref_079",
+    "type": "patent",
+    "title": "基于交互式查询的自适应差分隐私预算分配方法及其系统",
+    "URL": "https://patents.google.com/patent/CN112487472B/zh",
+    "author": [
+      {
+        "literal": "郑啸"
+      }
+    ],
+    "number": "CN112487472B",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "The published author list is abbreviated; additional names remain unspecified. English title: Method and system for adaptive differential privacy budget allocation based on interactive queries. Published reference slots: ref-079. Published context: [79] 郑啸等,《基于交互式查询的自适应差分隐私预算分配方法及其系统》 [Method and system for adaptive differential privacy budget allocation based on interactive queries], CN112487472B (2023). https://patents.google.com/patent/CN112487472B/zh"
+  },
+  {
+    "id": "f164_ref_080",
+    "type": "patent",
+    "title": "一种数据安全屋的实现方法及终端",
+    "URL": "https://patents.google.com/patent/CN114626033B/zh",
+    "author": [
+      {
+        "literal": "金华松"
+      },
+      {
+        "literal": "何颖"
+      },
+      {
+        "literal": "廖秀聆"
+      },
+      {
+        "literal": "赖孝友"
+      }
+    ],
+    "number": "CN114626033B",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          8
+        ]
+      ]
+    },
+    "note": "English title: Method and terminal for implementing a data safe house. Published reference slots: ref-080. Published context: [80] 金华松、何颖、廖秀聆、赖孝友,《一种数据安全屋的实现方法及终端》 [Method and terminal for implementing a data safe house], CN114626033B, granted 8 November 2022. https://patents.google.com/patent/CN114626033B/zh"
+  },
+  {
+    "id": "f164_ref_081",
+    "type": "patent",
+    "title": "一种安全屋信息安全管控方法及系统",
+    "URL": "https://patents.google.com/patent/CN116702229A/zh",
+    "author": [
+      {
+        "literal": "梁鹏"
+      },
+      {
+        "literal": "吴皓月"
+      }
+    ],
+    "number": "CN116702229A",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "English title: Method and system for information security management and control in a safe house. Published reference slots: ref-081. Published context: [81] 梁鹏、吴皓月,《一种安全屋信息安全管控方法及系统》 [Method and system for information security management and control in a safe house], CN116702229A (2023). https://patents.google.com/patent/CN116702229A/zh"
+  },
+  {
+    "id": "f164_ref_082",
+    "type": "article-journal",
+    "title": "Understanding data spaces: A Systematic Mapping Study of foundations, technical building blocks, and sectoral adoption",
+    "container-title": "Computer Science Review",
+    "volume": "59",
+    "page": "100819",
+    "DOI": "10.1016/j.cosrev.2025.100819",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S1574013725000954",
+    "author": [
+      {
+        "family": "Kovach",
+        "given": "Anhelina"
+      },
+      {
+        "family": "Montalvillo",
+        "given": "Leticia"
+      },
+      {
+        "family": "Lanza",
+        "given": "Jorge"
+      },
+      {
+        "family": "Sotres",
+        "given": "Pablo"
+      },
+      {
+        "family": "Urbieta",
+        "given": "Aitor"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-082. Published context: [82] Anhelina Kovach, Leticia Montalvillo, Jorge Lanza, Pablo Sotres, and Aitor Urbieta, “Understanding data spaces: A Systematic Mapping Study of foundations, technical building blocks, and sectoral adoption,” Computer Science Review 59:100819, 2026. https://www.sciencedirect.com/science/article/pii/S1574013725000954"
+  },
+  {
+    "id": "f164_ref_083",
+    "type": "article-journal",
+    "title": "TrustDS: policy-compiled governance and verifiable evidence for cross-cloud marketplace analytics under explicit security assumptions",
+    "container-title": "Scientific Reports",
+    "volume": "16",
+    "page": "17958",
+    "DOI": "10.1038/s41598-026-48740-8",
+    "URL": "https://www.nature.com/articles/s41598-026-48740-8",
+    "author": [
+      {
+        "family": "Dockara",
+        "given": "Tirupathi Rao"
+      },
+      {
+        "family": "Malhotra",
+        "given": "Manisha"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-083. Published context: [83] Tirupathi Rao Dockara and Manisha Malhotra, “TrustDS: policy-compiled governance and verifiable evidence for cross-cloud marketplace analytics under explicit security assumptions,” Scientific Reports 16, 17958, April 2026. https://www.nature.com/articles/s41598-026-48740-8"
+  },
+  {
+    "id": "f164_ref_084",
+    "type": "webpage",
+    "title": "基于二手车交易场景的数据全链路流通可信技术应用案例",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/zcgh/0610/20260610200312774268672_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Application case of trusted technologies for data circulation across the entire chain in used-car transactions. Published reference slots: ref-084. Published context: [84] 国家数据局,《基于二手车交易场景的数据全链路流通可信技术应用案例》 [Application case of trusted technologies for data circulation across the entire chain in used-car transactions], June 2026. https://www.nda.gov.cn/sjj/ywpd/zcgh/0610/20260610200312774268672_pc.html"
+  },
+  {
+    "id": "f164_ref_085",
+    "type": "webpage",
+    "title": "基于油气管输运行优化场景的电力数据跨主体流通安全技术应用案例",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/zcgh/0614/20260614185459455376719_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Application case of security technologies for cross-entity circulation of electricity data to optimize oil and gas pipeline operations. Published reference slots: ref-085. Published context: [85] 国家数据局,《基于油气管输运行优化场景的电力数据跨主体流通安全技术应用案例》 [Application case of security technologies for cross-entity circulation of electricity data to optimize oil and gas pipeline operations], June 2026. https://www.nda.gov.cn/sjj/ywpd/zcgh/0614/20260614185459455376719_pc.html"
+  },
+  {
+    "id": "f164_ref_086",
+    "type": "webpage",
+    "title": "四川长虹企业可信数据空间——打通企业数实融合应用闭环",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/sjzy/0123/20260123211347316394985_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "note": "English title: Sichuan Changhong enterprise trusted data space: Completing the application loop for integration of the digital and physical economies. Published reference slots: ref-086. Published context: [86] 国家数据局,《四川长虹企业可信数据空间——打通企业数实融合应用闭环》 [Sichuan Changhong enterprise trusted data space: Completing the application loop for integration of the digital and physical economies], January 2026. https://www.nda.gov.cn/sjj/ywpd/sjzy/0123/20260123211347316394985_pc.html"
+  },
+  {
+    "id": "f164_ref_087",
+    "type": "webpage",
+    "title": "中小银行服务行业可信数据空间——破解数据流通壁垒",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/sjzy/0121/20260121135536476611581_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "note": "English title: Trusted data space for the small and medium-sized banking services sector: Breaking down barriers to data circulation. Published reference slots: ref-087. Published context: [87] 国家数据局,《中小银行服务行业可信数据空间——破解数据流通壁垒》 [Trusted data space for the small and medium-sized banking services sector: Breaking down barriers to data circulation], January 2026. https://www.nda.gov.cn/sjj/ywpd/sjzy/0121/20260121135536476611581_pc.html"
+  },
+  {
+    "id": "f164_ref_088",
+    "type": "webpage",
+    "title": "可信数据空间试点典型经验：药品行业可信数据空间——激活医药数据创新动能，夯实医药行业高质量发展数字根基",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/sjzy/0116/20260116133807881461163_mobile.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ]
+    },
+    "note": "English title: Lessons from trusted data space pilots: A pharmaceutical industry trusted data space to stimulate pharmaceutical data innovation and strengthen the digital foundations of high-quality industry development. Published reference slots: ref-088. Published context: [88] 国家数据局,《可信数据空间试点典型经验：药品行业可信数据空间——激活医药数据创新动能，夯实医药行业高质量发展数字根基》 [Lessons from trusted data space pilots: A pharmaceutical industry trusted data space to stimulate pharmaceutical data innovation and strengthen the digital foundations of high-quality industry development], 2026-01-16. https://www.nda.gov.cn/sjj/ywpd/sjzy/0116/20260116133807881461163_mobile.html"
+  },
+  {
+    "id": "f164_ref_089",
+    "type": "webpage",
+    "title": "可信数据空间试点典型经验：南京城市可信数据空间——以资源汇聚与运营模式构建数据价值释放的长效机制",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/sjzy/0114/20260114095400332200979_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ]
+    },
+    "note": "English title: Lessons from trusted data space pilots: Nanjing's city trusted data space, building a lasting mechanism for realizing data value through resource aggregation and operating models. Published reference slots: ref-089. Published context: [89] 国家数据局,《可信数据空间试点典型经验：南京城市可信数据空间——以资源汇聚与运营模式构建数据价值释放的长效机制》 [Lessons from trusted data space pilots: Nanjing's city trusted data space, building a lasting mechanism for realizing data value through resource aggregation and operating models], 2026-01-14. https://www.nda.gov.cn/sjj/ywpd/sjzy/0114/20260114095400332200979_pc.html"
+  },
+  {
+    "id": "f164_ref_090",
+    "type": "webpage",
+    "title": "数据基础设施建设典型案例之二十二｜双轮驱动：打造合肥可信数据空间技术+制度创新融合“试验场”",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/1023/20251023155227839200478_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "English title: Data infrastructure construction case 22: A dual approach to building Hefei's trusted data space as a testbed for integrated technological and institutional innovation. Published reference slots: ref-090. Published context: [90] 国家数据局,《数据基础设施建设典型案例之二十二｜双轮驱动：打造合肥可信数据空间技术+制度创新融合“试验场”》 [Data infrastructure construction case 22: A dual approach to building Hefei's trusted data space as a testbed for integrated technological and institutional innovation], 2025-10-23. https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/1023/20251023155227839200478_pc.html"
+  },
+  {
+    "id": "f164_ref_091",
+    "type": "webpage",
+    "title": "可信数据空间试点典型经验：国网山西电力企业可信数据空间——驱动电力数据价值释放、赋能新型电力系统建设",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/sjzy/0123/20260123211644146189441_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          27
+        ]
+      ]
+    },
+    "note": "English title: Lessons from trusted data space pilots: State Grid Shanxi Electric Power's enterprise trusted data space, realizing electricity data value and enabling a new type of power system. Published reference slots: ref-091. Published context: [91] 国家数据局,《可信数据空间试点典型经验：国网山西电力企业可信数据空间——驱动电力数据价值释放、赋能新型电力系统建设》 [Lessons from trusted data space pilots: State Grid Shanxi Electric Power's enterprise trusted data space, realizing electricity data value and enabling a new type of power system], 2026-01-27. https://www.nda.gov.cn/sjj/ywpd/sjzy/0123/20260123211644146189441_pc.html"
+  },
+  {
+    "id": "f164_ref_092",
+    "type": "webpage",
+    "title": "可信数据空间试点典型经验：海洋资源环境行业可信数据空间——赋能海洋经济高质量发展",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/sjzy/0122/20260122184841288955353_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ]
+    },
+    "note": "English title: Lessons from trusted data space pilots: A marine resources and environment industry trusted data space enabling high-quality development of the marine economy. Published reference slots: ref-092. Published context: [92] 国家数据局,《可信数据空间试点典型经验：海洋资源环境行业可信数据空间——赋能海洋经济高质量发展》 [Lessons from trusted data space pilots: A marine resources and environment industry trusted data space enabling high-quality development of the marine economy], 2026-01-22. https://www.nda.gov.cn/sjj/ywpd/sjzy/0122/20260122184841288955353_pc.html"
+  },
+  {
+    "id": "f164_ref_093",
+    "type": "webpage",
+    "title": "第二批公共数据“跑起来”典型案例之三｜重庆智能网联汽车融合应用场景",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/sjzy/0511/20260511203858219045669_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          11
+        ]
+      ]
+    },
+    "note": "English title: Second collection of cases of putting public data to work, case 3: Integrated applications for intelligent connected vehicles in Chongqing. Published reference slots: ref-093. Published context: [93] 国家数据局,《第二批公共数据“跑起来”典型案例之三｜重庆智能网联汽车融合应用场景》 [Second collection of cases of putting public data to work, case 3: Integrated applications for intelligent connected vehicles in Chongqing], 2026-05-11. https://www.nda.gov.cn/sjj/ywpd/sjzy/0511/20260511203858219045669_pc.html"
+  },
+  {
+    "id": "f164_ref_094",
+    "type": "webpage",
+    "title": "患者と医療・社会をつなぐ秘密計算を用いた世界初の秘匿型ePROシステムで有効性を確認",
+    "URL": "https://www.ntt.com/about-us/press-releases/news/article/2026/0615_2.html",
+    "author": [
+      {
+        "literal": "NTTドコモビジネス"
+      },
+      {
+        "literal": "千葉大学医学部附属病院"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          15
+        ]
+      ]
+    },
+    "note": "English title: Effectiveness confirmed in the world's first confidential ePRO system using secure computation to connect patients with healthcare and society. Published reference slots: ref-094. Published context: [94] NTTドコモビジネス、千葉大学医学部附属病院. 患者と医療・社会をつなぐ秘密計算を用いた世界初の秘匿型ePROシステムで有効性を確認 [Effectiveness confirmed in the world's first confidential ePRO system using secure computation to connect patients with healthcare and society]. 2026-06-15. https://www.ntt.com/about-us/press-releases/news/article/2026/0615_2.html"
+  },
+  {
+    "id": "f164_ref_095",
+    "type": "webpage",
+    "title": "교통카드 정보, 민간에 공개…서울·대전 '데이터안심구역' 마련",
+    "URL": "https://www.yna.co.kr/view/AKR20250331143400003",
+    "author": [
+      {
+        "literal": "임성호"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          1
+        ]
+      ]
+    },
+    "note": "English title: Transit-card information opened to private users: Data safe zones established in Seoul and Daejeon. Published reference slots: ref-095. Published context: [95] 임성호, 「교통카드 정보, 민간에 공개…서울·대전 '데이터안심구역' 마련」 [Transit-card information opened to private users: Data safe zones established in Seoul and Daejeon], 연합뉴스, 1 April 2025. https://www.yna.co.kr/view/AKR20250331143400003"
+  },
+  {
+    "id": "f164_ref_096",
+    "type": "webpage",
+    "title": "국토부-과기정통부, AI·데이터 활용 확대를 위한 ‘2025년 데이터안심구역 활용 공동 경진대회’ 개최",
+    "URL": "https://eiec.kdi.re.kr/policy/materialView.do?num=270715&pg=&pp=&topic=L",
+    "author": [
+      {
+        "literal": "국토부·과기정통부"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ]
+    },
+    "note": "English title: The Ministry of Land, Infrastructure and Transport and the Ministry of Science and ICT announce the 2025 joint competition on the use of data safe zones to expand AI and data use. Published reference slots: ref-096. Published context: [96] 국토부·과기정통부, 「국토부-과기정통부, AI·데이터 활용 확대를 위한 ‘2025년 데이터안심구역 활용 공동 경진대회’ 개최」 [The Ministry of Land, Infrastructure and Transport and the Ministry of Science and ICT announce the 2025 joint competition on the use of data safe zones to expand AI and data use], 8 September 2025. https://eiec.kdi.re.kr/policy/materialView.do?num=270715&pg=&pp=&topic=L"
+  },
+  {
+    "id": "f164_ref_097",
+    "type": "webpage",
+    "title": "Vorreiter für Datenräume im Automobilbereich – Das Projekt Gaia-X 4 KI präsentiert seine Ergebnisse",
+    "URL": "https://www.dlr.de/de/ts/aktuelles/nachrichten/2024/gaia-x-4-ki-projektabschluss",
+    "author": [
+      {
+        "literal": "DLR"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "English title: Pioneering data spaces in the automotive sector: The Gaia-X 4 KI project presents its results. Published reference slots: ref-097. Published context: [97] DLR, „Vorreiter für Datenräume im Automobilbereich – Das Projekt Gaia-X 4 KI präsentiert seine Ergebnisse“ [Pioneering data spaces in the automotive sector: The Gaia-X 4 KI project presents its results], 2024. https://www.dlr.de/de/ts/aktuelles/nachrichten/2024/gaia-x-4-ki-projektabschluss"
+  },
+  {
+    "id": "f164_ref_098",
+    "type": "webpage",
+    "title": "El Gobierno pone en marcha la Lista de Confianza de Espacios de Datos",
+    "URL": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transformacion-digital-y-funcion-publica/paginas/2026/090126-lista-confianza-espacios-datos.aspx",
+    "author": [
+      {
+        "literal": "Gobierno de España"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "English title: The government launches the Trusted List of Data Spaces. Published reference slots: ref-098. Published context: [98] Gobierno de España, El Gobierno pone en marcha la Lista de Confianza de Espacios de Datos [The government launches the Trusted List of Data Spaces], 2026. https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transformacion-digital-y-funcion-publica/paginas/2026/090126-lista-confianza-espacios-datos.aspx"
+  },
+  {
+    "id": "f164_ref_099",
+    "type": "webpage",
+    "title": "Data, performance, IA : Reworld Media déploie une Data Clean Room à grande échelle avec Mediarithmics",
+    "URL": "https://www.sri-france.org/2026/01/27/data-performance-ia-reworld-media-deploie-une-data-clean-room-a-grande-echelle-avec-mediarithmics/",
+    "author": [
+      {
+        "literal": "SRI / Reworld Media"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "note": "English title: Data, performance, AI: Reworld Media deploys a Data Clean Room at scale with Mediarithmics. Published reference slots: ref-099. Published context: [99] SRI / Reworld Media, « Data, performance, IA : Reworld Media déploie une Data Clean Room à grande échelle avec Mediarithmics » [Data, performance, AI: Reworld Media deploys a Data Clean Room at scale with Mediarithmics], January 2026. https://www.sri-france.org/2026/01/27/data-performance-ia-reworld-media-deploie-une-data-clean-room-a-grande-echelle-avec-mediarithmics/"
+  },
+  {
+    "id": "f164_ref_100",
+    "type": "webpage",
+    "title": "Les données internes de Bell : l’audience propulsée en performance",
+    "URL": "https://www.bellmedia.ca/fr/ventes-publicitaires/ressources/insights/les-donnees-internes-de-bell-laudience-propulsee-en-performance/",
+    "author": [
+      {
+        "literal": "Bell Média"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "English title: Bell's first-party data: Turning audiences into performance. Published reference slots: ref-100. Published context: [100] Bell Média, « Les données internes de Bell : l’audience propulsée en performance » [Bell's first-party data: Turning audiences into performance] (2026) https://www.bellmedia.ca/fr/ventes-publicitaires/ressources/insights/les-donnees-internes-de-bell-laudience-propulsee-en-performance/"
+  },
+  {
+    "id": "f164_ref_101",
+    "type": "webpage",
+    "title": "FEDERATED-PET: Apprentissage Fédéré en imagerie TEP-TDM pour prédire la survie de patient atteints de CPNPC métastatique traité par immunothérapie",
+    "URL": "https://www.health-data-hub.fr/projets/federated-pet-apprentissage-federe-en-imagerie-tep-tdm-pour-predire-la-survie-de-patient",
+    "author": [
+      {
+        "literal": "Plateforme des données de santé"
+      }
+    ],
+    "note": "English title: FEDERATED-PET: Federated learning with PET-CT imaging to predict survival in patients with metastatic non-small-cell lung cancer treated with immunotherapy. Published reference slots: ref-101. Published context: [101] Plateforme des données de santé, « FEDERATED-PET: Apprentissage Fédéré en imagerie TEP-TDM pour prédire la survie de patient atteints de CPNPC métastatique traité par immunothérapie » [FEDERATED-PET: Federated learning with PET-CT imaging to predict survival in patients with metastatic non-small-cell lung cancer treated with immunotherapy], project registry record F20231205084501. https://www.health-data-hub.fr/projets/federated-pet-apprentissage-federe-en-imagerie-tep-tdm-pour-predire-la-survie-de-patient"
+  },
+  {
+    "id": "f164_ref_102",
+    "type": "webpage",
+    "title": "Mise en place d’un apprentissage fédéré d’algorithmes d’intelligence artificielle entre sites hospitaliers Normands",
+    "URL": "https://www.health-data-hub.fr/projets/mise-en-place-dun-apprentissage-federe-dalgorithmes-dintelligence-artificielle-entre-sites",
+    "author": [
+      {
+        "literal": "Plateforme des données de santé"
+      }
+    ],
+    "note": "English title: Implementing federated learning of artificial intelligence algorithms across hospital sites in Normandy. Published reference slots: ref-102. Published context: [102] Plateforme des données de santé, « Mise en place d’un apprentissage fédéré d’algorithmes d’intelligence artificielle entre sites hospitaliers Normands » [Implementing federated learning of artificial intelligence algorithms across hospital sites in Normandy]. https://www.health-data-hub.fr/projets/mise-en-place-dun-apprentissage-federe-dalgorithmes-dintelligence-artificielle-entre-sites"
+  },
+  {
+    "id": "f164_ref_103",
+    "type": "webpage",
+    "title": "가명정보 결합 절차 안내",
+    "URL": "https://pipc.go.kr/np/default/page.do?mCode=D040010000",
+    "author": [
+      {
+        "literal": "개인정보보호위원회"
+      }
+    ],
+    "note": "English title: Guide to procedures for combining pseudonymized information. Published reference slots: ref-103. Published context: [103] 개인정보보호위원회, 가명정보 결합 절차 안내 [Guide to procedures for combining pseudonymized information]. https://pipc.go.kr/np/default/page.do?mCode=D040010000"
+  },
+  {
+    "id": "f164_ref_104",
+    "type": "webpage",
+    "title": "결합전문기관 재지정 공고",
+    "URL": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=11118",
+    "author": [
+      {
+        "literal": "개인정보보호위원회"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          11
+        ]
+      ]
+    },
+    "note": "English title: Notice of redesignation of specialized data-combination institutions. Published reference slots: ref-104. Published context: [104] 개인정보보호위원회, 결합전문기관 재지정 공고 [Notice of redesignation of specialized data-combination institutions], 2025-04-11. https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=11118"
+  },
+  {
+    "id": "f164_ref_105",
+    "type": "webpage",
+    "title": "데이터 산업진흥 및 이용촉진에 관한 기본법",
+    "URL": "https://law.go.kr/LSW/lsInfoP.do?lsiSeq=283739",
+    "author": [
+      {
+        "literal": "대한민국"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "The date denotes the consolidated version described by the published reference. English title: Framework Act on the Promotion of the Data Industry and the Facilitation of Data Use. Published reference slots: ref-105. Published context: [105] 대한민국, 데이터 산업진흥 및 이용촉진에 관한 기본법 [Framework Act on the Promotion of the Data Industry and the Facilitation of Data Use], Article 11, 2026 consolidated. https://law.go.kr/LSW/lsInfoP.do?lsiSeq=283739"
+  },
+  {
+    "id": "f164_ref_106",
+    "type": "webpage",
+    "title": "Orden TDF/1207/2025, Lista de Confianza de Espacios de Datos",
+    "URL": "https://www.boe.es/eli/es/o/2025/10/27/tdf1207",
+    "author": [
+      {
+        "literal": "España"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "English title: Order TDF/1207/2025, Trusted List of Data Spaces. Published reference slots: ref-106. Published context: [106] España, Orden TDF/1207/2025, Lista de Confianza de Espacios de Datos [Order TDF/1207/2025, Trusted List of Data Spaces]. https://www.boe.es/eli/es/o/2025/10/27/tdf1207"
+  },
+  {
+    "id": "f164_ref_107",
+    "type": "webpage",
+    "title": "Lista de Confianza de Espacios de Datos",
+    "URL": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24440",
+    "author": [
+      {
+        "literal": "Secretaría de Estado de Digitalización e IA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "note": "English title: Trusted List of Data Spaces. Published reference slots: ref-107. Published context: [107] Secretaría de Estado de Digitalización e IA, «Lista de Confianza de Espacios de Datos» [Trusted List of Data Spaces], November 2025. https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24440"
+  },
+  {
+    "id": "f164_ref_108",
+    "type": "webpage",
+    "title": "Usage Control",
+    "URL": "https://docs.internationaldataspaces.org/ids-knowledgebase/ids-ram-4/perspectives-of-the-reference-architecture-model/4_perspectives/4_1_security_perspective/4_1_6_usage_control",
+    "author": [
+      {
+        "literal": "International Data Spaces Association"
+      }
+    ],
+    "note": "Published reference slots: ref-108. Published context: [108] International Data Spaces Association, Usage Control, IDS reference model. https://docs.internationaldataspaces.org/ids-knowledgebase/ids-ram-4/perspectives-of-the-reference-architecture-model/4_perspectives/4_1_security_perspective/4_1_6_usage_control"
+  },
+  {
+    "id": "f164_ref_109",
+    "type": "webpage",
+    "title": "Espaces européens communs des données",
+    "URL": "https://digital-strategy.ec.europa.eu/fr/policies/data-spaces",
+    "author": [
+      {
+        "literal": "Commission européenne"
+      }
+    ],
+    "note": "The release describes an update or preview date; it is not installed as a publication date. English title: Common European data spaces. Published reference slots: ref-109. Published context: [109] Commission européenne, « Espaces européens communs des données » [Common European data spaces] (mise à jour 2026-08-14) https://digital-strategy.ec.europa.eu/fr/policies/data-spaces"
+  },
+  {
+    "id": "f164_ref_110",
+    "type": "webpage",
+    "title": "Acte européen sur la gouvernance des données",
+    "URL": "https://digital-strategy.ec.europa.eu/fr/policies/data-governance-act",
+    "author": [
+      {
+        "literal": "Commission européenne"
+      }
+    ],
+    "note": "English title: European Data Governance Act. Published reference slots: ref-110. Published context: [110] Commission européenne, « Acte européen sur la gouvernance des données » [European Data Governance Act]. https://digital-strategy.ec.europa.eu/fr/policies/data-governance-act"
+  },
+  {
+    "id": "f164_ref_111",
+    "type": "webpage",
+    "title": "Explication de l’acte sur la gouvernance des données",
+    "URL": "https://digital-strategy.ec.europa.eu/fr/policies/data-governance-act-explained",
+    "author": [
+      {
+        "literal": "Commission européenne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "note": "English title: Data Governance Act explained. Published reference slots: ref-111. Published context: [111] Commission européenne, « Explication de l’acte sur la gouvernance des données » [Data Governance Act explained], July 2026. https://digital-strategy.ec.europa.eu/fr/policies/data-governance-act-explained"
+  },
+  {
+    "id": "f164_ref_112",
+    "type": "webpage",
+    "title": "Le règlement sur les données expliqué",
+    "URL": "https://digital-strategy.ec.europa.eu/fr/factpages/data-act-explained",
+    "author": [
+      {
+        "literal": "Commission européenne"
+      }
+    ],
+    "note": "English title: Data Act explained. Published reference slots: ref-112. Published context: [112] Commission européenne, « Le règlement sur les données expliqué » [Data Act explained]. https://digital-strategy.ec.europa.eu/fr/factpages/data-act-explained"
+  },
+  {
+    "id": "f164_ref_113",
+    "type": "webpage",
+    "title": "À propos",
+    "URL": "https://language-data-space.ec.europa.eu/about_fr",
+    "author": [
+      {
+        "literal": "European Language Data Space"
+      }
+    ],
+    "note": "English title: About. Published reference slots: ref-113. Published context: [113] European Language Data Space, « À propos » [About]. https://language-data-space.ec.europa.eu/about_fr"
+  },
+  {
+    "id": "f164_ref_114",
+    "type": "webpage",
+    "title": "Simpl : Des fédérations de cloud-to-edge qui renforcent les espaces de données de l’UE",
+    "URL": "https://digital-strategy.ec.europa.eu/fr/policies/simpl",
+    "author": [
+      {
+        "literal": "Commission européenne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          22
+        ]
+      ]
+    },
+    "note": "English title: Simpl: Cloud-to-edge federations empowering EU data spaces. Published reference slots: ref-114. Published context: [114] Commission européenne, « Simpl : Des fédérations de cloud-to-edge qui renforcent les espaces de données de l’UE » [Simpl: Cloud-to-edge federations empowering EU data spaces] (2026-06-22) https://digital-strategy.ec.europa.eu/fr/policies/simpl"
+  },
+  {
+    "id": "f164_ref_115",
+    "type": "article-journal",
+    "title": "面向数据跨域安全流通的访问控制研究综述",
+    "container-title": "通信学报",
+    "volume": "46",
+    "issue": "4",
+    "page": "238–254",
+    "DOI": "10.11959/j.issn.1000-436x.2025042",
+    "URL": "https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2025042/",
+    "author": [
+      {
+        "literal": "李恒"
+      },
+      {
+        "literal": "李凤华"
+      },
+      {
+        "literal": "史欣怡"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "The published author list is abbreviated; additional names remain unspecified. English title: A survey of access control for secure cross-domain data circulation. Published reference slots: ref-115. Published context: [115] 李恒、李凤华、史欣怡等,《面向数据跨域安全流通的访问控制研究综述》 [A survey of access control for secure cross-domain data circulation],《通信学报》46(4):238–254, 2025. https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2025042/"
+  },
+  {
+    "id": "f164_ref_116",
+    "type": "article-journal",
+    "title": "Next-Generation Capabilities in Trusted Research Environments: Interview Study",
+    "container-title": "Journal of Medical Internet Research",
+    "volume": "24",
+    "issue": "9",
+    "page": "e33720",
+    "DOI": "10.2196/33720",
+    "URL": "https://www.jmir.org/2022/9/e33720",
+    "author": [
+      {
+        "family": "Kavianpour",
+        "given": "Sanaz"
+      },
+      {
+        "family": "Sutherland",
+        "given": "James"
+      },
+      {
+        "family": "Mansouri-Benssassi",
+        "given": "Esma"
+      },
+      {
+        "family": "Coull",
+        "given": "Natalie"
+      },
+      {
+        "family": "Jefferson",
+        "given": "Emily"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-116. Published context: [116] Sanaz Kavianpour, James Sutherland, Esma Mansouri-Benssassi, Natalie Coull, and Emily Jefferson, “Next-Generation Capabilities in Trusted Research Environments: Interview Study,” Journal of Medical Internet Research 24(9):e33720, 20 September 2022. DOI: 10.2196/33720. https://www.jmir.org/2022/9/e33720"
+  },
+  {
+    "id": "f164_ref_117",
+    "type": "article-journal",
+    "title": "Confidential Computing Across Edge‐To‐Cloud for Machine Learning: A Survey Study",
+    "container-title": "Software: Practice and Experience",
+    "volume": "55",
+    "issue": "5",
+    "page": "896-924",
+    "DOI": "10.1002/spe.3398",
+    "URL": "https://doi.org/10.1002/spe.3398",
+    "author": [
+      {
+        "family": "Zobaed",
+        "given": "Sm"
+      },
+      {
+        "family": "Amini Salehi",
+        "given": "Mohsen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          3
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-117. Published context: [117] Sm Zobaed and Mohsen Amini Salehi, “Confidential Computing Across Edge-To-Cloud for Machine Learning: A Survey Study,” Software: Practice and Experience 55(5):896–924, 2025. https://doi.org/10.1002/spe.3398"
+  },
+  {
+    "id": "f164_ref_118",
+    "type": "webpage",
+    "title": "IA : Tenir compte de la protection des données dans la conception du système",
+    "URL": "https://cnil.fr/fr/tenir-compte-de-la-protection-des-donnees-dans-la-conception-du-systeme",
+    "author": [
+      {
+        "literal": "CNIL"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "English title: AI: Taking data protection into account in system design. Published reference slots: ref-118. Published context: [118] CNIL, « IA : Tenir compte de la protection des données dans la conception du système » [AI: Taking data protection into account in system design] (2024) https://cnil.fr/fr/tenir-compte-de-la-protection-des-donnees-dans-la-conception-du-systeme"
+  },
+  {
+    "id": "f164_ref_119",
+    "type": "webpage",
+    "title": "IA : Garantir la sécurité du développement d’un système d’IA",
+    "URL": "https://www.cnil.fr/fr/ia-garantir-la-securite-du-developpement",
+    "author": [
+      {
+        "literal": "CNIL"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "English title: AI: Ensuring security when developing an AI system. Published reference slots: ref-119. Published context: [119] CNIL, « IA : Garantir la sécurité du développement d’un système d’IA » [AI: Ensuring security when developing an AI system] (2025) https://www.cnil.fr/fr/ia-garantir-la-securite-du-developpement"
+  },
+  {
+    "id": "f164_ref_120",
+    "type": "webpage",
+    "title": "[itw] Nicolas Papernot : “Il faut capturer de façon globale les enjeux de performance ET de sécurité ET de vie privée ET d’équité !”",
+    "URL": "https://linc.cnil.fr/itw-nicolas-papernot-il-faut-capturer-de-facon-globale-les-enjeux-de-performance-et-de-securite-et",
+    "author": [
+      {
+        "literal": "CNIL–LINC"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "note": "English title: Interview with Nicolas Papernot: We must address performance AND security AND privacy AND fairness together!. Published reference slots: ref-120. Published context: [120] CNIL–LINC, « [itw] Nicolas Papernot : “Il faut capturer de façon globale les enjeux de performance ET de sécurité ET de vie privée ET d’équité !” » [Interview with Nicolas Papernot: We must address performance AND security AND privacy AND fairness together!] (2022) https://linc.cnil.fr/itw-nicolas-papernot-il-faut-capturer-de-facon-globale-les-enjeux-de-performance-et-de-securite-et"
+  },
+  {
+    "id": "f164_ref_121",
+    "type": "webpage",
+    "title": "Consultation publique – Questionnaire sur l’application du RGPD aux modèles d’IA : Synthèse des contributions",
+    "URL": "https://www.cnil.fr/sites/default/files/2025-07/synthese_des_contributions_questionnaire_modeles_ia.pdf",
+    "author": [
+      {
+        "literal": "CNIL"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "English title: Public consultation: Questionnaire on the application of the GDPR to AI models, summary of contributions. Published reference slots: ref-121. Published context: [121] CNIL, « Consultation publique – Questionnaire sur l’application du RGPD aux modèles d’IA : Synthèse des contributions » [Public consultation: Questionnaire on the application of the GDPR to AI models, summary of contributions] (2025) https://www.cnil.fr/sites/default/files/2025-07/synthese_des_contributions_questionnaire_modeles_ia.pdf"
+  },
+  {
+    "id": "f164_ref_122",
+    "type": "webpage",
+    "title": "Développement des systèmes d’IA : les recommandations de la CNIL pour respecter le RGPD",
+    "URL": "https://www.cnil.fr/fr/developpement-des-systemes-dia-les-recommandations-de-la-cnil-pour-respecter-le-rgpd",
+    "author": [
+      {
+        "literal": "CNIL"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "English title: Developing AI systems: CNIL recommendations for GDPR compliance. Published reference slots: ref-122. Published context: [122] CNIL, « Développement des systèmes d’IA : les recommandations de la CNIL pour respecter le RGPD » [Developing AI systems: CNIL recommendations for GDPR compliance] (2025) https://www.cnil.fr/fr/developpement-des-systemes-dia-les-recommandations-de-la-cnil-pour-respecter-le-rgpd"
+  },
+  {
+    "id": "f164_ref_123",
+    "type": "webpage",
+    "title": "La CNIL accompagne le projet interdisciplinaire sur la protection des données personnelles (iPoP)",
+    "URL": "https://cnil-d10.cnil.fr/fr/la-cnil-accompagne-le-projet-interdisciplinaire-sur-la-protection-des-donnees-personnelles-ipop",
+    "author": [
+      {
+        "literal": "CNIL"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "English title: CNIL supports the interdisciplinary project on personal data protection (iPoP). Published reference slots: ref-123. Published context: [123] CNIL, « La CNIL accompagne le projet interdisciplinaire sur la protection des données personnelles (iPoP) » [CNIL supports the interdisciplinary project on personal data protection (iPoP)] (2023) https://cnil-d10.cnil.fr/fr/la-cnil-accompagne-le-projet-interdisciplinaire-sur-la-protection-des-donnees-personnelles-ipop"
+  },
+  {
+    "id": "f164_ref_124",
+    "type": "webpage",
+    "title": "Travaux sur la constitution de bases de données pour l’intelligence artificielle : Appel à contributions",
+    "URL": "https://www.cnil.fr/sites/cnil/files/2023-07/travaux_sur_la_constitution_de_bases_de_donnees_pour_l_intelligence_artificielle_appel_a_contributions.pdf",
+    "author": [
+      {
+        "literal": "CNIL"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "English title: Work on building databases for artificial intelligence: Call for contributions. Published reference slots: ref-124. Published context: [124] CNIL, « Travaux sur la constitution de bases de données pour l’intelligence artificielle : Appel à contributions » [Work on building databases for artificial intelligence: Call for contributions] (2023) https://www.cnil.fr/sites/cnil/files/2023-07/travaux_sur_la_constitution_de_bases_de_donnees_pour_l_intelligence_artificielle_appel_a_contributions.pdf"
+  },
+  {
+    "id": "f164_ref_125",
+    "type": "article-journal",
+    "title": "联邦学习及其安全与隐私保护研究综述",
+    "container-title": "计算机工程",
+    "volume": "50",
+    "issue": "5",
+    "page": "1–15",
+    "DOI": "10.19678/j.issn.1000-3428.0067782",
+    "URL": "https://www.ecice06.com/CN/Y2024/V50/I5/1",
+    "author": [
+      {
+        "literal": "熊世强"
+      },
+      {
+        "literal": "何道敬"
+      },
+      {
+        "literal": "王振东"
+      },
+      {
+        "literal": "杜润萌"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "note": "English title: A survey of federated learning and its security and privacy protection. Published reference slots: ref-125. Published context: [125] 熊世强、何道敬、王振东、杜润萌,《联邦学习及其安全与隐私保护研究综述》 [A survey of federated learning and its security and privacy protection],《计算机工程》50(5):1–15, May 2024. DOI: 10.19678/j.issn.1000-3428.0067782. https://www.ecice06.com/CN/Y2024/V50/I5/1"
+  },
+  {
+    "id": "f164_ref_126",
+    "type": "article-journal",
+    "title": "SoK: Verifiable Integrity Claims for Privacy-Preserving Federated Learning",
+    "container-title": "Proceedings on Privacy Enhancing Technologies",
+    "volume": "2026",
+    "issue": "4",
+    "page": "248-271",
+    "DOI": "10.56553/popets-2026-0119",
+    "URL": "https://www.petsymposium.org/popets/2026/popets-2026-0119.php",
+    "author": [
+      {
+        "family": "Rizzini",
+        "given": "Andrea"
+      },
+      {
+        "family": "Esposito",
+        "given": "Marco"
+      },
+      {
+        "family": "Gagliardoni",
+        "given": "Tommaso"
+      },
+      {
+        "family": "Bruschi",
+        "given": "Francesco"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-126. Published context: [126] Andrea Rizzini, Marco Esposito, Tommaso Gagliardoni, and Francesco Bruschi, “SoK: Verifiable Integrity Claims for Privacy-Preserving Federated Learning,” Proceedings on Privacy Enhancing Technologies 2026(4):248–271, 2026. DOI: 10.56553/popets-2026-0119. https://www.petsymposium.org/popets/2026/popets-2026-0119.php"
+  },
+  {
+    "id": "f164_ref_127",
+    "type": "article-journal",
+    "title": "秘密計算の発展―データを隠しつつ計算する仕組みとその発展―",
+    "container-title": "IEICE ESS Fundamentals Review",
+    "volume": "12",
+    "issue": "1",
+    "page": "12-20",
+    "DOI": "10.1587/essfr.12.1_12",
+    "URL": "https://doi.org/10.1587/essfr.12.1_12",
+    "author": [
+      {
+        "literal": "菊池 亮"
+      },
+      {
+        "literal": "五十嵐 大"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          1
+        ]
+      ]
+    },
+    "note": "English title: Progress of Secure Computation: Basic Constructions and Dedicated Algorithms. Published reference slots: ref-127. Published context: [127] 菊池 亮、五十嵐 大, 「秘密計算の発展―データを隠しつつ計算する仕組みとその発展―」 [Progress of Secure Computation: Basic Constructions and Dedicated Algorithms], 電子情報通信学会 基礎・境界ソサイエティ Fundamentals Review 12(1):12–20, 1 July 2018. https://doi.org/10.1587/essfr.12.1_12 https://www.jstage.jst.go.jp/article/essfr/12/1/12_12/_article/-char/ja"
+  },
+  {
+    "id": "f164_ref_128",
+    "type": "article-journal",
+    "title": "数据流通利用设施关键技术与建设路径研究",
+    "container-title": "信息通信技术与政策",
+    "volume": "51",
+    "issue": "4",
+    "page": "34–39",
+    "URL": "https://ictp.caict.ac.cn/CN/abstract/abstract1390.shtml",
+    "author": [
+      {
+        "literal": "白玉真"
+      },
+      {
+        "literal": "贾轩"
+      },
+      {
+        "literal": "王思源"
+      },
+      {
+        "literal": "袁博"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "English title: Research on key technologies and construction pathways for data circulation and utilization infrastructure. Published reference slots: ref-128. Published context: [128] 白玉真、贾轩、王思源、袁博,《数据流通利用设施关键技术与建设路径研究》 [Research on key technologies and construction pathways for data circulation and utilization infrastructure], 《信息通信技术与政策》51(4):34–39, 2025. https://ictp.caict.ac.cn/CN/abstract/abstract1390.shtml"
+  },
+  {
+    "id": "f164_ref_129",
+    "type": "webpage",
+    "title": "Datentreuhänder",
+    "URL": "https://www.isst.fraunhofer.de/de/abteilungen/mobility-und-smart-cities/datentreuhaender.html",
+    "author": [
+      {
+        "literal": "Fraunhofer ISST"
+      }
+    ],
+    "note": "English title: Data trustees. Published reference slots: ref-129. Published context: [129] Fraunhofer ISST, „Datentreuhänder“ [Data trustees]. https://www.isst.fraunhofer.de/de/abteilungen/mobility-und-smart-cities/datentreuhaender.html"
+  },
+  {
+    "id": "f164_ref_130",
+    "type": "webpage",
+    "title": "Abschlussveranstaltung: Datentreuhandmodell für horizontale Geodatenräume – InGeoDTM",
+    "URL": "https://www.igd.fraunhofer.de/de/veranstaltungen/abschlussveranstaltung-datentreuhandmodell-fuer-horizontale-geodatenraeume-ingeodtm.html",
+    "author": [
+      {
+        "literal": "Fraunhofer IGD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ]
+    },
+    "note": "English title: Closing event: Data trusteeship model for horizontal geospatial data spaces, InGeoDTM. Published reference slots: ref-130. Published context: [130] Fraunhofer IGD, „Abschlussveranstaltung: Datentreuhandmodell für horizontale Geodatenräume – InGeoDTM“ [Closing event: Data trusteeship model for horizontal geospatial data spaces, InGeoDTM], 25.02.2026. https://www.igd.fraunhofer.de/de/veranstaltungen/abschlussveranstaltung-datentreuhandmodell-fuer-horizontale-geodatenraeume-ingeodtm.html"
+  },
+  {
+    "id": "f164_ref_131",
+    "type": "webpage",
+    "title": "InGeoDTM – Ein Governance-Modell für domänenübergreifende Geodatenbereitstellung",
+    "URL": "https://www.isst.fraunhofer.de/de/publikationen/wissenschaftliche-publikationen/InGeoDTM-Ein-Governance-Modell-fuer-domaenenuebergreifende-Geodatenbereitstellung.html",
+    "author": [
+      {
+        "literal": "Fraunhofer ISST"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "English title: InGeoDTM: A governance model for cross-domain provision of geospatial data. Published reference slots: ref-131. Published context: [131] Fraunhofer ISST, „InGeoDTM – Ein Governance-Modell für domänenübergreifende Geodatenbereitstellung“ [InGeoDTM: A governance model for cross-domain provision of geospatial data], 2026. https://www.isst.fraunhofer.de/de/publikationen/wissenschaftliche-publikationen/InGeoDTM-Ein-Governance-Modell-fuer-domaenenuebergreifende-Geodatenbereitstellung.html"
+  },
+  {
+    "id": "f164_ref_132",
+    "type": "webpage",
+    "title": "Digitale Geschäftsmodelle und Wertschöpfung in Datenräumen für die Industrie",
+    "URL": "https://www.scs.fraunhofer.de/de/publikationen/studien/digitale-geschaeftsmodelle-und-wertschoepfung-in-datenraeumen-fuer-die-industrie.html",
+    "author": [
+      {
+        "literal": "Fraunhofer/Plattform Industrie 4.0"
+      }
+    ],
+    "note": "English title: Digital business models and value creation in industrial data spaces. Published reference slots: ref-132. Published context: [132] Fraunhofer/Plattform Industrie 4.0, „Digitale Geschäftsmodelle und Wertschöpfung in Datenräumen für die Industrie“ [Digital business models and value creation in industrial data spaces]. https://www.scs.fraunhofer.de/de/publikationen/studien/digitale-geschaeftsmodelle-und-wertschoepfung-in-datenraeumen-fuer-die-industrie.html"
+  },
+  {
+    "id": "f164_ref_133",
+    "type": "webpage",
+    "title": "Föderierte Datenräume für den Schienenverkehr",
+    "URL": "https://www.dlr.de/de/ts/aktuelles/nachrichten/2026/foederierte-datenraeume-fuer-den-schienenverkehr",
+    "author": [
+      {
+        "literal": "DLR"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          25
+        ]
+      ]
+    },
+    "note": "English title: Federated data spaces for rail transport. Published reference slots: ref-133. Published context: [133] DLR, „Föderierte Datenräume für den Schienenverkehr“ [Federated data spaces for rail transport], 25 August 2026. https://www.dlr.de/de/ts/aktuelles/nachrichten/2026/foederierte-datenraeume-fuer-den-schienenverkehr"
+  },
+  {
+    "id": "f164_ref_134",
+    "type": "article-journal",
+    "title": "TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems",
+    "container-title": "Proceedings on Privacy Enhancing Technologies",
+    "volume": "2025",
+    "issue": "4",
+    "page": "566-584",
+    "DOI": "10.56553/popets-2025-0145",
+    "URL": "https://petsymposium.org/popets/2025/popets-2025-0145.php",
+    "author": [
+      {
+        "family": "Di Gennaro",
+        "given": "Marco"
+      },
+      {
+        "family": "De Lucia",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Longari",
+        "given": "Stefano"
+      },
+      {
+        "family": "Zanero",
+        "given": "Stefano"
+      },
+      {
+        "family": "Carminati",
+        "given": "Michele"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-134. Published context: [134] Marco Di Gennaro, Giovanni De Lucia, Stefano Longari, Stefano Zanero, and Michele Carminati, “TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems,” Proceedings on Privacy Enhancing Technologies 2025(4):566–584, 2025. DOI: 10.56553/popets-2025-0145. https://petsymposium.org/popets/2025/popets-2025-0145.php"
+  },
+  {
+    "id": "f164_ref_135",
+    "type": "webpage",
+    "title": "Chacun chez soi et les données seront bien gardées : l’apprentissage fédéré",
+    "URL": "https://linc.cnil.fr/chacun-chez-soi-et-les-donnees-seront-bien-gardees-lapprentissage-federe",
+    "author": [
+      {
+        "literal": "CNIL–LINC"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "note": "English title: Everyone at home and the data well guarded: Federated learning. Published reference slots: ref-135. Published context: [135] CNIL–LINC, « Chacun chez soi et les données seront bien gardées : l’apprentissage fédéré » [Everyone at home and the data well guarded: Federated learning] (2022) https://linc.cnil.fr/chacun-chez-soi-et-les-donnees-seront-bien-gardees-lapprentissage-federe"
+  },
+  {
+    "id": "f164_ref_136",
+    "type": "webpage",
+    "title": "[Données synthétiques] – Et l’Homme créa les données à son image 2/2",
+    "URL": "https://linc.cnil.fr/donnees-synthetiques-et-lhomme-crea-les-donnees-son-image-22",
+    "author": [
+      {
+        "family": "Léautier",
+        "given": "Alexis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "note": "English title: Synthetic data: And humankind created data in its own image, 2/2. Published reference slots: ref-136. Published context: [136] Alexis Léautier / CNIL–LINC, « [Données synthétiques] – Et l’Homme créa les données à son image 2/2 » [Synthetic data: And humankind created data in its own image, 2/2] (2022) https://linc.cnil.fr/donnees-synthetiques-et-lhomme-crea-les-donnees-son-image-22"
+  },
+  {
+    "id": "f164_ref_137",
+    "type": "manuscript",
+    "title": "Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs",
+    "URL": "https://arxiv.org/abs/2605.21027",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "Gundeep"
+      },
+      {
+        "family": "Kavehzadeh",
+        "given": "Parsa"
+      },
+      {
+        "family": "Xia",
+        "given": "Jing"
+      },
+      {
+        "family": "Fu",
+        "given": "Xue-Yong"
+      },
+      {
+        "family": "Tremblay",
+        "given": "Julien Bouvier"
+      },
+      {
+        "family": "Laskar",
+        "given": "Md Tahmid Rahman"
+      },
+      {
+        "family": "Lum",
+        "given": "Vincent"
+      },
+      {
+        "family": "TN",
+        "given": "Shashi Bhushan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          20
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-137. Published context: [137] Gundeep Singh, Parsa Kavehzadeh, Jing Xia, Xue-Yong Fu, Julien Bouvier Tremblay, Md Tahmid Rahman Laskar, Vincent Lum, and Shashi Bhushan TN, “Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs,” arXiv:2605.21027, May 2026. https://arxiv.org/abs/2605.21027"
+  },
+  {
+    "id": "f164_ref_138",
+    "type": "manuscript",
+    "title": "Data Agents: Agentic Data Systems",
+    "URL": "https://arxiv.org/abs/2609.24137",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Guoliang"
+      },
+      {
+        "family": "Zhou",
+        "given": "Peiyao"
+      },
+      {
+        "family": "Zhou",
+        "given": "Xuanhe"
+      },
+      {
+        "family": "Sun",
+        "given": "Ji"
+      },
+      {
+        "family": "Luo",
+        "given": "Yuyu"
+      },
+      {
+        "family": "Fan",
+        "given": "Ju"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          21
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-138. Published context: [138] Guoliang Li, Peiyao Zhou, Xuanhe Zhou, Ji Sun, Yuyu Luo, and Ju Fan, “Data Agents: Agentic Data Systems,” arXiv:2609.24137, September 2026. https://arxiv.org/abs/2609.24137"
+  },
+  {
+    "id": "f164_ref_139",
+    "type": "patent",
+    "title": "Procédés et dispositifs permettant de contrôler l’accès d’un utilisateur à un service en certifiant et en assurant la confidentialité des attributs de cet utilisateur",
+    "URL": "https://patents.google.com/patent/FR3154273A1/fr",
+    "author": [
+      {
+        "family": "Dumanois",
+        "given": "Antoine"
+      },
+      {
+        "family": "Traore",
+        "given": "Jacques"
+      }
+    ],
+    "number": "FR3154273A1",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          18
+        ]
+      ]
+    },
+    "note": "English title: Methods and devices for controlling a user's access to a service by certifying and ensuring the confidentiality of that user's attributes. Published reference slots: ref-139. Published context: [139] Orange — Antoine Dumanois, Jacques Traore, « Procédés et dispositifs permettant de contrôler l’accès d’un utilisateur à un service en certifiant et en assurant la confidentialité des attributs de cet utilisateur » [Methods and devices for controlling a user's access to a service by certifying and ensuring the confidentiality of that user's attributes], FR3154273A1, published 2025-04-18. https://patents.google.com/patent/FR3154273A1/fr"
+  },
+  {
+    "id": "f164_ref_140",
+    "type": "patent",
+    "title": "Procédé et dispositif de génération d’une réponse à une requête sur un grand modèle de langage contrôlant les sources utilisées",
+    "URL": "https://patents.google.com/patent/WO2026052543A1/fr",
+    "author": [
+      {
+        "literal": "Orange"
+      }
+    ],
+    "number": "WO2026052543A1",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "English title: Method and device for generating a response to a query to a large language model while controlling the sources used. Published reference slots: ref-140. Published context: [140] Orange, « Procédé et dispositif de génération d’une réponse à une requête sur un grand modèle de langage contrôlant les sources utilisées » [Method and device for generating a response to a query to a large language model while controlling the sources used], WO2026052543A1 (2026). https://patents.google.com/patent/WO2026052543A1/fr"
+  },
+  {
+    "id": "f164_ref_141",
+    "type": "patent",
+    "title": "Procédé de transmission de données à divulgation sélective",
+    "URL": "https://patents.google.com/patent/WO2025172401A1/fr",
+    "author": [
+      {
+        "family": "Drilhon",
+        "given": "Xavier"
+      },
+      {
+        "family": "de Lassus",
+        "given": "Jean-Gaston"
+      },
+      {
+        "family": "Imbaud",
+        "given": "Marc"
+      }
+    ],
+    "number": "WO2025172401A1",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          21
+        ]
+      ]
+    },
+    "note": "English title: Method for transmitting data with selective disclosure. Published reference slots: ref-141. Published context: [141] M-Itrust — Xavier Drilhon, Jean-Gaston de Lassus, Marc Imbaud, « Procédé de transmission de données à divulgation sélective » [Method for transmitting data with selective disclosure], WO2025172401A1, published 2025-08-21; French priority FR2401458. https://patents.google.com/patent/WO2025172401A1/fr"
+  },
+  {
+    "id": "f164_ref_142",
+    "type": "patent",
+    "title": "Processus de déclaration de non-exploitabilité de données échangées",
+    "URL": "https://patents.google.com/patent/EP3900294A1/fr",
+    "author": [
+      {
+        "literal": "Orange"
+      }
+    ],
+    "number": "EP3900294A1",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "The published reference identifies a patent-family member as context; the linked patent publication is the cited bibliographic object. English title: Process for declaring exchanged data unusable. Published reference slots: ref-142. Published context: [142] Orange — « Processus de déclaration de non-exploitabilité de données échangées » [Process for declaring exchanged data unusable], EP3900294A1 (published 2021-10-27), family grant EP3900294B1 (2024-11-27) https://patents.google.com/patent/EP3900294A1/fr"
+  },
+  {
+    "id": "f164_ref_143",
+    "type": "webpage",
+    "title": "可信数据空间数据智能体技术展望",
+    "URL": "https://www.secrss.com/articles/90521",
+    "author": [
+      {
+        "literal": "刘琛"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "note": "English title: Prospects for data agent technology in trusted data spaces. Published reference slots: ref-143. Published context: [143] 刘琛,《可信数据空间数据智能体技术展望》 [Prospects for data agent technology in trusted data spaces], May 2026. https://www.secrss.com/articles/90521"
+  },
+  {
+    "id": "f164_ref_144",
+    "type": "standard",
+    "title": "可信智能体空间建设指南 第1部分：总体架构与安全要求",
+    "URL": "https://www.afdata.org.cn/Standard/d3721db2-7ab6-431d-83e4-0469ba0d885b",
+    "author": [
+      {
+        "literal": "中国互联网协会"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Guidelines for building trusted agent spaces, Part 1: Overall architecture and security requirements. Published reference slots: ref-144. Published context: [144] 中国互联网协会,《可信智能体空间建设指南 第1部分：总体架构与安全要求》 [Guidelines for building trusted agent spaces, Part 1: Overall architecture and security requirements], T/ISC 0105—2026, published June 2026 (effective 2026-06-11). https://www.afdata.org.cn/Standard/d3721db2-7ab6-431d-83e4-0469ba0d885b"
+  },
+  {
+    "id": "f164_ref_145",
+    "type": "webpage",
+    "title": "智能体规范应用与创新发展实施意见",
+    "URL": "https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm",
+    "author": [
+      {
+        "literal": "中央网络安全和信息化委员会办公室"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "note": "The published author list is abbreviated; additional names remain unspecified. English title: Implementation opinions on the standardized application and innovative development of agents. Published reference slots: ref-145. Published context: [145] 中央网络安全和信息化委员会办公室等,《智能体规范应用与创新发展实施意见》 [Implementation opinions on the standardized application and innovative development of agents], May 2026. https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm"
+  },
+  {
+    "id": "f164_ref_146",
+    "type": "webpage",
+    "title": "IAB State Privacy Law Survey Results 2025",
+    "URL": "https://www.iab.com/insights/state-privacy-law-survey-results-2025/",
+    "author": [
+      {
+        "literal": "IAB"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          17
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-146. Published context: [146] IAB, “IAB State Privacy Law Survey Results 2025,” March 17, 2025. https://www.iab.com/insights/state-privacy-law-survey-results-2025/"
+  },
+  {
+    "id": "f164_ref_147",
+    "type": "article-journal",
+    "title": "A Survey of Data Security Sharing",
+    "container-title": "Symmetry",
+    "volume": "17",
+    "issue": "8",
+    "page": "1259",
+    "DOI": "10.3390/sym17081259",
+    "URL": "https://www.mdpi.com/2073-8994/17/8/1259",
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Dexin"
+      },
+      {
+        "family": "Zhou",
+        "given": "Zhiqiang"
+      },
+      {
+        "family": "Li",
+        "given": "Yuanbo"
+      },
+      {
+        "family": "Zhang",
+        "given": "Huanjie"
+      },
+      {
+        "family": "Chen",
+        "given": "Yang"
+      },
+      {
+        "family": "Zhao",
+        "given": "Zilong"
+      },
+      {
+        "family": "Zheng",
+        "given": "Jun"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          7
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-147. Published context: [147] Dexin Zhu, Zhiqiang Zhou, Yuanbo Li, Huanjie Zhang, Yang Chen, Zilong Zhao, Jun Zheng, “A Survey of Data Security Sharing,” Symmetry 17(8), 1259, August 7, 2025. https://www.mdpi.com/2073-8994/17/8/1259"
+  },
+  {
+    "id": "f164_ref_148",
+    "type": "article-journal",
+    "title": "Privacy preservation techniques through data lifecycle: A comprehensive literature survey",
+    "container-title": "Computers & Security",
+    "volume": "155",
+    "page": "104473",
+    "DOI": "10.1016/j.cose.2025.104473",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0167404825001622",
+    "author": [
+      {
+        "family": "Madhusudhanan",
+        "given": "Sheema"
+      },
+      {
+        "family": "Jose",
+        "given": "Arun Cyril"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-148. Published context: [148] Sheema Madhusudhanan and Arun Cyril Jose, “Privacy preservation techniques through data lifecycle: A comprehensive literature survey,” Computers & Security 155:104473, August 2025. DOI: 10.1016/j.cose.2025.104473. https://www.sciencedirect.com/science/article/pii/S0167404825001622"
+  },
+  {
+    "id": "f164_ref_149",
+    "type": "article-journal",
+    "title": "Security concerns for Large Language Models: A survey",
+    "container-title": "Journal of Information Security and Applications",
+    "volume": "95",
+    "page": "104284",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S2214212625003217",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Miles Q."
+      },
+      {
+        "family": "Fung",
+        "given": "Benjamin C. M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-149. Published context: [149] Miles Q. Li and Benjamin C. M. Fung, “Security concerns for Large Language Models: A survey,” Journal of Information Security and Applications 95, article 104284, December 2025. https://www.sciencedirect.com/science/article/pii/S2214212625003217"
+  },
+  {
+    "id": "f164_ref_150",
+    "type": "webpage",
+    "title": "关于公布2025年可信数据空间创新发展试点名单的通知",
+    "URL": "https://www.nda.gov.cn/sjj/zwgk/tzgg/0716/20250716205501357780564_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局综合司"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          17
+        ]
+      ]
+    },
+    "note": "Document dated 16 July 2025; publication posting dated 17 July 2025. English title: Notice announcing the list of 2025 pilot projects for innovative development of trusted data spaces. Published reference slots: ref-150. Published context: [150] 国家数据局综合司,《关于公布2025年可信数据空间创新发展试点名单的通知》 [Notice announcing the list of 2025 pilot projects for innovative development of trusted data spaces], dated 16 July 2025; posted 17 July 2025. https://www.nda.gov.cn/sjj/zwgk/tzgg/0716/20250716205501357780564_pc.html"
+  },
+  {
+    "id": "f164_ref_151",
+    "type": "webpage",
+    "title": "〈可信数据空间创新发展报告（2025）〉发布",
+    "URL": "https://www.nda.gov.cn/sjj/ywpd/sjzy/0901/20250829085131590048920_pc.html",
+    "author": [
+      {
+        "literal": "国家数据局"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          29
+        ]
+      ]
+    },
+    "note": "English title: Release of the Report on the Innovative Development of Trusted Data Spaces (2025). Published reference slots: ref-151. Published context: [151] 国家数据局,《〈可信数据空间创新发展报告（2025）〉发布》 [Release of the Report on the Innovative Development of Trusted Data Spaces (2025)], 2025-08-29. https://www.nda.gov.cn/sjj/ywpd/sjzy/0901/20250829085131590048920_pc.html"
+  }
+]
