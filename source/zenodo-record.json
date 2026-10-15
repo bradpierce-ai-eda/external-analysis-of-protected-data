@@ -1,0 +1,296 @@
+{
+  "id": "23377117",
+  "revision_id": 4,
+  "metadata": {
+    "resource_type": {
+      "id": "publication-report",
+      "title": {
+        "de": "Bericht",
+        "en": "Report"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pierce, Brad",
+          "given_name": "Brad",
+          "family_name": "Pierce",
+          "identifiers": [
+            {
+              "identifier": "0009-0009-7427-2969",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      }
+    ],
+    "title": "External Analysis of Protected Data",
+    "additional_titles": [
+      {
+        "title": "Data Clean Rooms, Confidential Computing, Approved Queries, and the Emerging Agent Interface",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        },
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        }
+      }
+    ],
+    "publisher": "Zenodo",
+    "publication_date": "2026-10-14",
+    "subjects": [
+      {
+        "subject": "data clean rooms"
+      },
+      {
+        "subject": "trusted research environments"
+      },
+      {
+        "subject": "confidential computing"
+      },
+      {
+        "subject": "secure multiparty computation"
+      },
+      {
+        "subject": "differential privacy"
+      },
+      {
+        "subject": "privacy-preserving computation"
+      },
+      {
+        "subject": "approved queries"
+      },
+      {
+        "subject": "AI agents"
+      },
+      {
+        "id": "euroscivoc:295",
+        "subject": "Computer security",
+        "scheme": "EuroSciVoc",
+        "props": {
+          "parents": "euroscivoc:23,euroscivoc:47"
+        },
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/46889256-2431-4fb0-bee0-184f2c8a24c4",
+            "scheme": "url"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.1007/s10207-025-01047-7",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      },
+      {
+        "identifier": "10.2196/33720",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      },
+      {
+        "identifier": "10.1002/spe.3398",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      },
+      {
+        "identifier": "10.56553/popets-2025-0145",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      },
+      {
+        "identifier": "10.6028/NIST.SP.800-226",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-report",
+          "title": {
+            "de": "Bericht",
+            "en": "Report"
+          }
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-nc-4.0",
+        "title": {
+          "en": "Creative Commons Attribution Non Commercial 4.0 International"
+        },
+        "description": {
+          "en": ""
+        },
+        "icon": "cc-by-nc-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "copyright": "© 2026 Brad Pierce",
+    "description": "<p>Organizations often possess proprietary or regulated information that could support valuable external analysis but can't be disclosed as raw records. This technical report surveys documented methods for performing controlled computations over such data and releasing bounded results. It compares data clean rooms, trusted research environments, confidential computing, secure multiparty computation, differential privacy, and governed data spaces. Documented commercial offerings support predefined queries, reviewed notebooks, configured machine-learning workloads, and selected protected computations; newer agent interfaces invoke limited approved operations or summarize outputs already authorized for release. Published examples cover advertising, healthcare, finance, research, government, and cross-organizational analytics. The protection offered by each arrangement depends on its threat model, data movement, authorization rules, implementation, and output controls. Keeping source records within a protected environment doesn't itself eliminate disclosure through aggregates, repeated queries, model artifacts, error messages, or metadata. The documented systems differ in which analyses, result types, release paths, and external-agent actions they permit.</p>",
+    "additional_descriptions": [
+      {
+        "description": "<p>This report was developed by Brad Pierce with substantial assistance from an AI model. He established the&nbsp;research objectives and editorial direction and retains responsibility for the claims, source attributions, and&nbsp;decisions about publication.</p>",
+        "type": {
+          "id": "methods",
+          "title": {
+            "de": "Methoden",
+            "en": "Methods"
+          }
+        },
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        }
+      }
+    ]
+  },
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.23377117",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:23377117",
+      "provider": "oai"
+    }
+  },
+  "parent": {
+    "id": "23377116",
+    "access": {
+      "owned_by": {
+        "user": "1888563"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.23377116",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 692912,
+    "entries": {
+      "external-analysis-of-protected-data.pdf": {
+        "id": "5f75e7c5-420a-4da0-8dca-46f6faa8d863",
+        "checksum": "md5:f3d0d9dd68c4491b7e823070c37afca9",
+        "ext": "pdf",
+        "size": 692912,
+        "mimetype": "application/pdf",
+        "storage_class": "L",
+        "key": "external-analysis-of-protected-data.pdf",
+        "metadata": {
+          "width": 612,
+          "height": 792
+        },
+        "access": {
+          "hidden": false
+        },
+        "links": {
+          "self": "https://zenodo.org/api/records/23377117/files/external-analysis-of-protected-data.pdf",
+          "content": "https://zenodo.org/api/records/23377117/files/external-analysis-of-protected-data.pdf/content",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:23377117/canvas/external-analysis-of-protected-data.pdf",
+          "iiif_base": "https://zenodo.org/api/iiif/record:23377117:external-analysis-of-protected-data.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:23377117:external-analysis-of-protected-data.pdf/info.json",
+          "iiif_api": "https://zenodo.org/api/iiif/record:23377117:external-analysis-of-protected-data.pdf/full/full/0/default.png"
+        }
+      }
+    }
+  }
+}

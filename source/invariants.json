@@ -1,0 +1,32 @@
+{
+  "doi": "10.5281/zenodo.23377117",
+  "zenodo_record": "https://zenodo.org/records/23377117",
+  "publication_date": "2026-10-14",
+  "pdf": {
+    "file": "external-analysis-of-protected-data.pdf",
+    "bytes": 692912,
+    "sha256": "6d6ecdf9d44e18f296844af01b0dd55facbc8a3f09c358638f0c4cf7b1f97892",
+    "pages": 23
+  },
+  "canonical_text_sha256": "ec37769439ce0264e0d64e370a9dd80269c48a06fbe51c5f328ffe4099924e5f",
+  "canonical_markdown_sha256": "b82918e4458dd803b4dd45039eb46dfc63696c8b559a4f8f9c7c8a829ffa0dfb",
+  "canonical_blocks": 313,
+  "numbered_references": 151,
+  "citation_groups": 103,
+  "internal_citation_links": 227,
+  "reference_url_occurrences": 152,
+  "figures": 0,
+  "tables": 0,
+  "translated_reference_titles": 93,
+  "keywords": [
+    "data clean rooms",
+    "trusted research environments",
+    "confidential computing",
+    "secure multiparty computation",
+    "differential privacy",
+    "privacy-preserving computation",
+    "approved queries",
+    "AI agents"
+  ],
+  "publication_pdf_identity": "Verified byte-identical to the Zenodo published file and the approved release."
+}

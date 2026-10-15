@@ -1,0 +1,1668 @@
+TY  - ELEC
+ID  - f164_ref_001
+AU  - NTTドコモビジネス,
+TI  - 「析秘MPC」の分析AIオプション(学習・推論)を提供開始
+UR  - https://www.ntt.com/about-us/press-releases/news/article/2026/0624.html
+PY  - 2026
+DA  - 2026/6
+N1  - English title: Launch of the analysis AI option (training and inference) for SeCIHI MPC; Published reference slots: ref-001
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_002
+AU  - Schneider, Lynne
+TI  - Data Clean Rooms: Secure and Private Data Collaboration
+UR  - https://www.idc.com/resource-center/blog/data-clean-rooms-secure-and-private-data-collaboration/
+PY  - 2024
+DA  - 2024/2/14
+N1  - Published reference slots: ref-002
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_003
+AU  - Decentriq,
+TI  - The best data clean room companies in 2026
+UR  - https://www.decentriq.com/article/data-clean-rooms-compared
+PY  - 2026
+DA  - 2026/3/23
+N1  - Published reference slots: ref-003
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_004
+AU  - AWS,
+TI  - Analysis rules in AWS Clean Rooms
+UR  - https://docs.aws.amazon.com/clean-rooms/latest/userguide/analysis-rules.html
+N1  - Published reference slots: ref-004
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_005
+AU  - AWS,
+TI  - AWS Clean Rooms ML
+UR  - https://docs.aws.amazon.com/clean-rooms/latest/userguide/machine-learning.html
+N1  - Published reference slots: ref-005
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_006
+AU  - Amazon Web Services,
+TI  - AWS Clean Rooms supports synthetic dataset generation for custom ML training
+UR  - https://aws.amazon.com/about-aws/whats-new/2025/11/aws-clean-rooms-synthetic-dataset-generation-custom-ml/
+PY  - 2025
+DA  - 2025/11/30
+N1  - Published reference slots: ref-006
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_007
+AU  - AWS,
+TI  - Privacy-enhanced synthetic dataset generation
+UR  - https://docs.aws.amazon.com/clean-rooms/latest/userguide/synthetic-data-generation.html
+N1  - Published reference slots: ref-007
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_008
+AU  - Snowflake,
+TI  - About Snowflake Data Clean Rooms
+UR  - https://docs.snowflake.com/en/en/user-guide/cleanrooms/introduction
+N1  - Published reference slots: ref-008
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_009
+AU  - Snowflake,
+TI  - Overview of Snowflake Data Clean Rooms
+UR  - https://docs.snowflake.com/en/user-guide/cleanrooms/overview
+N1  - Published reference slots: ref-009
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_010
+AU  - Databricks,
+TI  - What is Databricks Clean Rooms?
+UR  - https://docs.databricks.com/aws/en/clean-rooms/
+N1  - Published reference slots: ref-010
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_011
+AU  - Databricks,
+TI  - Run notebooks in clean rooms
+UR  - https://docs.databricks.com/aws/en/clean-rooms/clean-room-notebook
+N1  - The release describes an update or preview date; it is not installed as a publication date.; Published reference slots: ref-011
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_012
+AU  - Databricks,
+TI  - Run JAR workloads in Databricks clean rooms
+UR  - https://docs.databricks.com/aws/en/clean-rooms/clean-room-jar-task
+N1  - The release describes an update or preview date; it is not installed as a publication date.; Published reference slots: ref-012
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_013
+AU  - Google Cloud,
+TI  - Share sensitive data with data clean rooms
+UR  - https://docs.cloud.google.com/bigquery/docs/data-clean-rooms
+N1  - Published reference slots: ref-013
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_014
+AU  - Microsoft Learn,
+TI  - Cleanroom and Multi-party Data Analytics
+UR  - https://learn.microsoft.com/en-us/azure/confidential-computing/multi-party-data
+N1  - Published reference slots: ref-014
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_015
+AU  - Microsoft Learn,
+TI  - Azure Confidential Clean Rooms
+UR  - https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-clean-rooms
+N1  - Published reference slots: ref-015
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_016
+AU  - InfoSum,
+TI  - Privacy-first data collaboration
+UR  - https://www.infosum.com/platform/privacy
+N1  - Published reference slots: ref-016
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_017
+AU  - InfoSum,
+TI  - Introducing the InfoSum Data Clean Room
+UR  - https://support.infosum.com/hc/en-us/articles/20230364634258-Introducing-the-InfoSum-Data-Clean-Room
+N1  - Published reference slots: ref-017
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_018
+AU  - Roseman Labs,
+TI  - Product
+UR  - https://rosemanlabs.com/en/product
+N1  - Published reference slots: ref-018
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_019
+AU  - Roseman Labs,
+TI  - FAQs
+UR  - https://support.rosemanlabs.com/faq
+N1  - Published reference slots: ref-019
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_020
+AU  - Sturzenegger, David
+TI  - Introducing AI Insights: data clean room results in plain language
+UR  - https://www.decentriq.com/article/ai-insights
+PY  - 2026
+DA  - 2026/10/1
+N1  - Published reference slots: ref-020
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_021
+AU  - Lutenski, Erin
+TI  - Why GDPR stalls European data clean room partnerships (and the fix)
+UR  - https://www.decentriq.com/article/why-gdpr-stalls-european-data-collaboration
+PY  - 2026
+DA  - 2026/6/29
+N1  - Published reference slots: ref-021
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_022
+AU  - Sharma, Siddharth
+TI  - LiveRamp Clean Room Architecture Deep Dive
+UR  - https://liveramp.com/blog/liveramp-clean-room-architecture
+PY  - 2025
+DA  - 2025/2/14
+N1  - Published reference slots: ref-022
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_023
+AU  - LiveRamp,
+TI  - Agentic AI Orchestration for Marketing
+UR  - https://liveramp.com/our-platform/agentic-ai
+N1  - Published reference slots: ref-023
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_024
+AU  - Snowflake,
+TI  - Legacy Provider and Consumer clean rooms end-of-life notice
+UR  - https://docs.snowflake.com/en/user-guide/cleanrooms/manage-clean-rooms
+N1  - Published reference slots: ref-024
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_025
+AU  - Snowflake,
+TI  - Snowflake Data Clean Rooms Agent
+UR  - https://docs.snowflake.com/en/user-guide/cleanrooms/dcr-agent
+N1  - Published reference slots: ref-025
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_026
+AU  - U.S. Federal Trade Commission,
+TI  - Data Clean Rooms: Separating Fact from Fiction
+UR  - https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/11/data-clean-rooms-separating-fact-fiction
+PY  - 2024
+DA  - 2024/11
+N1  - Published reference slots: ref-026
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_027
+AU  - Cardoza, Christina
+AU  - Schneider, Lynne
+TI  - How synthetic data and clean rooms are redefining secure data collaboration
+UR  - https://www.idc.com/resource-center/blog/how-synthetic-data-and-clean-rooms-are-redefining-secure-data-collaboration/
+PY  - 2025
+DA  - 2025/12/5
+N1  - Published reference slots: ref-027
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_028
+AU  - IAB Tech Lab,
+TI  - Data Clean Rooms Guidance
+UR  - https://iabtechlab.com/datacleanrooms/
+N1  - Published reference slots: ref-028
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_029
+AU  - ONS,
+TI  - About the Secure Research Service
+UR  - https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/aboutthesecureresearchservice
+N1  - Published reference slots: ref-029
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_030
+AU  - Chatellier, Régis
+TI  - Engager un rééquilibrage privé/public par les données
+UR  - https://linc.cnil.fr/ip5-engager-un-reequilibrage-privepublic-par-les-donnees
+PY  - 2017
+DA  - 2017
+N1  - English title: Rebalancing the relationship between the private and public sectors through data; Published reference slots: ref-030
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_031
+AU  - 盛小平,
+AU  - 奉晓娟,
+AU  - 方向明,
+TI  - 国内外可信数据空间研究综述
+T2  - 数字图书馆论坛
+VL  - 22
+IS  - 3
+SP  - 1–10
+UR  - https://dlf.istic.ac.cn/dlf/ch/reader/view_abstract.aspx?file_no=202603003&flag=1
+PY  - 2026
+DA  - 2026
+N1  - English title: A review of research on trusted data spaces in China and abroad; Published reference slots: ref-031
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_032
+AU  - 蔡曦,
+AU  - 夏杰长,
+TI  - 隐私计算技术赋能数据流通：现状审视、发展困境和政策建议
+T2  - 企业经济
+VL  - 44
+IS  - 7
+SP  - 97–106
+UR  - https://quit.cbpt.cnki.net/portal/journal/portal/client/paper/81a6b95cf07b9d741f0e8704b6718a36
+PY  - 2025
+DA  - 2025
+N1  - English title: Privacy-preserving computation technologies enabling data circulation: Current status, development challenges, and policy recommendations; Published reference slots: ref-032
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_033
+AU  - 国家数据局,
+TI  - 可信数据空间发展行动计划（2024—2028年）
+UR  - https://www.nda.gov.cn/sjj/zwgk/zcfb/1122/20241122164142182915964_pc.html
+PY  - 2024
+DA  - 2024/11
+N1  - English title: Action plan for the development of trusted data spaces (2024–2028); Published reference slots: ref-033
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_034
+AU  - UK Government / Office for National Statistics,
+TI  - The Five Safes Framework
+UR  - https://www.gov.uk/data-ethics-guidance/the-five-safes-framework
+PY  - 2025
+DA  - 2025/1/30
+N1  - Published reference slots: ref-034
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_035
+AU  - UK Office for National Statistics,
+TI  - SRS Research and Data Access Policy
+UR  - https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/onsresearchanddataaccesspolicy
+N1  - Published reference slots: ref-035
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_036
+AU  - Luong, Jasper H. C.
+AU  - Beggs, Jillian
+AU  - Ferris, Jason
+AU  - Furuta, Koh
+AU  - Gorse, Alain-Dominique
+AU  - Jefferson, Emily
+AU  - Aung, Khin Mi Mi
+AU  - Sullivan, Clair
+AU  - Woo, Xing Yi
+AU  - The HEALTHWISE Consortium,
+AU  - Cheong, Io Hong
+AU  - Kozlakidis, Zisis
+AU  - Quinlan, Philip R.
+AU  - Beck, Tim
+TI  - A maturity model framework for federated networks of trusted research environments
+T2  - Frontiers in Digital Health
+VL  - 8
+DO  - 10.3389/fdgth.2026.1699125
+UR  - https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1699125/full
+PY  - 2026
+DA  - 2026/5/15
+N1  - Published reference slots: ref-036
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_037
+AU  - Brophy, Rachel
+AU  - Bellavia, Ester
+AU  - Bluemink, Maeve Groot
+AU  - Evans, Katharine
+AU  - Hashimi, Munisa
+AU  - Macaulay, Yemi
+AU  - McNamara, Edel
+AU  - Noble, Allison
+AU  - Quattroni, Paola
+AU  - Rudczenko, Amanda
+AU  - Morris, Andrew D
+AU  - Smith, Cassie
+AU  - Boyd, Andy
+TI  - Towards a standardised cross-sectoral data access agreement template for research: a core set of principles for data access within trusted research environments
+T2  - International Journal of Population Data Science
+VL  - 8
+IS  - 4
+DO  - 10.23889/ijpds.v8i4.2169
+UR  - https://ijpds.org/article/view/2169
+PY  - 2023
+DA  - 2023/10/9
+N1  - Published reference slots: ref-037
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_038
+AU  - Confidential Computing Consortium/IDC,
+TI  - New Study Finds Confidential Computing Emerging as a Strategic Imperative
+UR  - https://confidentialcomputing.io/2025/12/03/new-study-finds-confidential-computing-emerging-as-a-strategic-imperative-for-secure-ai-and-data-collaboration/
+PY  - 2025
+DA  - 2025/12/3
+N1  - Published reference slots: ref-038
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_039
+AU  - Confidential Computing Consortium,
+TI  - White Papers & Reports
+UR  - https://confidentialcomputing.io/resources/white-papers-reports/
+N1  - Published reference slots: ref-039
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_040
+AU  - Confidential Computing Consortium,
+TI  - The Collaborative Confidential Clean Room
+ED  - Kolga, Rene
+ED  - Sun, Mingshen
+UR  - https://confidentialcomputing.io/wp-content/uploads/sites/10/2026/09/CCC-Blueprint-C-2026.pdf
+PY  - 2026
+DA  - 2026/8
+N1  - Lead editors: Rene Kolga; Mingshen Sun; Published reference slots: ref-040
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_041
+AU  - Bontekoe, Tariq
+AU  - Karastoyanova, Dimka
+AU  - Turkmen, Fatih
+TI  - Verifiability for privacy-preserving computing on distributed data — a survey
+T2  - International Journal of Information Security
+VL  - 24
+IS  - 3
+DO  - 10.1007/s10207-025-01047-7
+UR  - https://link.springer.com/article/10.1007/s10207-025-01047-7
+PY  - 2025
+DA  - 2025/5/24
+N1  - Published reference slots: ref-041
+ER  -
+
+TY  - RPRT
+ID  - f164_ref_042
+AU  - Near, Joseph P
+AU  - Darais, David
+AU  - Lefkovitz, Naomi
+AU  - Howarth, Gary S
+TI  - Guidelines for evaluating differential privacy guarantees
+DO  - 10.6028/nist.sp.800-226
+UR  - https://csrc.nist.gov/pubs/sp/800/226/final
+PY  - 2025
+DA  - 2025/3/6
+N1  - Published reference slots: ref-042
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_043
+AU  - 刘立伟,
+AU  - 傅超豪,
+AU  - 孙泽堃,
+AU  - 周耘,
+AU  - 阮娜,
+AU  - 蒋昌俊,
+TI  - 数据要素流通全流程隐私关键技术：现状、挑战与展望
+T2  - 软件学报
+VL  - 37
+IS  - 1
+SP  - 301–325
+DO  - 10.13328/j.cnki.jos.007478
+UR  - https://www.jos.org.cn/html/7478.htm
+PY  - 2026
+DA  - 2026
+N1  - English title: Key privacy technologies throughout the data circulation lifecycle: Current status, challenges, and prospects; Published reference slots: ref-043
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_044
+AU  - 张涵,
+AU  - 于航,
+AU  - 周继威,
+AU  - 白云开,
+AU  - 赵路坦,
+TI  - 面向隐私计算的可信执行环境综述
+T2  - 计算机应用
+VL  - 45
+IS  - 2
+SP  - 467–481
+DO  - 10.11772/j.issn.1001-9081.2024020222
+UR  - https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024020222
+PY  - 2025
+DA  - 2025
+N1  - English title: Survey on trusted execution environment towards privacy computing; Published reference slots: ref-044
+ER  -
+
+TY  - STAND
+ID  - f164_ref_045
+AU  - 全国数据标准化技术委员会,
+TI  - 可信数据空间 技术架构
+UR  - https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/0430/20250430181352183912672_pc.html
+PY  - 2025
+DA  - 2025/4
+N1  - English title: Trusted data spaces: Technical architecture; Published reference slots: ref-045
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_046
+AU  - mediarithmics,
+TI  - mediarithmics lance une Data Clean Room pour permettre à ses clients d’enrichir leurs activations data en toute sécurité
+UR  - https://www.mediarithmics.io/news/mediarithmics-lance-une-data-clean-room-pour-permettre-a-ses-clients-denrichir-leurs-activations-data-en-toute-securite
+PY  - 2024
+DA  - 2024/7
+N1  - English title: mediarithmics launches a Data Clean Room to enable its clients to enrich their data activations securely; Published reference slots: ref-046
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_047
+AU  - Dawex,
+TI  - Mes données seront-elles visibles sur la plateforme avant l’acquisition ?
+UR  - https://help-participant.dawex.com/fr/support/solutions/articles/36000048972-mes-donn%C3%A9es-seront-elles-visibles-sur-la-plateforme-avant-l-acquisition-
+PY  - 2024
+DA  - 2024/8/14
+N1  - English title: Will my data be visible on the platform before acquisition?; Published reference slots: ref-047
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_048
+AU  - Dawex,
+TI  - Quelles données puis-je fournir ?
+UR  - https://help-participant.dawex.com/fr/support/solutions/articles/36000049030-quelles-donn%C3%A9es-puis-je-fournir-
+PY  - 2024
+DA  - 2024/8/6
+N1  - English title: What data can I provide?; Published reference slots: ref-048
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_049
+AU  - Roseman Labs,
+TI  - Finding value with Multi Party Computation
+UR  - https://rosemanlabs.com/en/blogs/finding-value-with-multi-party-computation
+N1  - Published reference slots: ref-049
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_050
+AU  - LiveRamp,
+TI  - Data Collaboration Platform
+UR  - https://liveramp.com/our-platform
+N1  - Published reference slots: ref-050
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_051
+AU  - NTTドコモビジネス,
+TI  - 「秘密計算活用事例集」第2版・実践ガイドライン
+UR  - https://www.ntt.com/about-us/information/info_20260325.html
+PY  - 2026
+DA  - 2026/3/25
+N1  - English title: Secure computation use cases, second edition, and practical guidelines; The published author list is abbreviated; additional names remain unspecified. The cited object is the announcement covering the second-edition use-case compilation and practical guidelines; the component publications are not separately identified in the release.; Published reference slots: ref-051
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_052
+AU  - NTTドコモビジネス,
+TI  - 析秘 -SeCIHI-
+UR  - https://www.ntt.com/business/services/secihi.html
+N1  - Published reference slots: ref-052
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_053
+AU  - Health-RI,
+TI  - Gefedereerde analyse
+UR  - https://www.health-ri.nl/en/gefedereerde-analyse
+N1  - English title: Federated analysis; Published reference slots: ref-053
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_054
+AU  - Health-RI,
+TI  - Personal Health Train – Distributed Learning Community
+UR  - https://www.health-ri.nl/personal-health-train-federated-learning
+N1  - Published reference slots: ref-054
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_055
+AU  - FederatedAI/微众银行,
+TI  - FATE 中文文档
+UR  - https://github.com/FederatedAI/DOC-CHN
+N1  - English title: FATE Chinese documentation; Published reference slots: ref-055
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_056
+AU  - 隐语 SecretFlow,
+TI  - 架构
+UR  - https://secretflow.readthedocs.io/zh-cn/stable/developer/design/architecture.html
+N1  - English title: Architecture; Published reference slots: ref-056
+ER  -
+
+TY  - COMP
+ID  - f164_ref_057
+AU  - SecretFlow-SCQL,
+TI  - SCQL 安全协同查询
+UR  - https://github.com/secretflow/scql
+N1  - English title: SCQL secure collaborative querying; Published reference slots: ref-057
+ER  -
+
+TY  - COMP
+ID  - f164_ref_058
+AU  - SecretFlow,
+TI  - Kuscia
+UR  - https://github.com/secretflow/kuscia
+N1  - Published reference slots: ref-058
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_059
+AU  - NTT技術ジャーナル,
+TI  - 企業横断の統計的なデータ活用による社会課題解決を実現する秘匿クロス統計技術
+UR  - https://journal.ntt.co.jp/article/23744
+PY  - 2023
+DA  - 2023
+N1  - English title: Confidential cross-statistical analysis technology for solving societal challenges through statistical use of data across companies; Published reference slots: ref-059
+ER  -
+
+TY  - PAT
+ID  - f164_ref_060
+AU  - 日本電信電話株式会社,
+TI  - 秘密計算システム、装置、方法及びプログラム
+M1  - JP7589815B2
+UR  - https://patents.google.com/patent/JP7589815B2/ja
+PY  - 2024
+DA  - 2024/11/26
+N1  - English title: Secure computation system, apparatus, method, and program; Published reference slots: ref-060
+ER  -
+
+TY  - PAT
+ID  - f164_ref_061
+AU  - Jager, Tibor
+TI  - Verfahren und System zur sicheren Mehrparteienberechnung
+M1  - DE102022123548B4
+UR  - https://patents.google.com/patent/DE102022123548B4/en
+PY  - 2024
+DA  - 2024/5
+N1  - English title: Method and system for secure multiparty computation; Published reference slots: ref-061
+ER  -
+
+TY  - PAT
+ID  - f164_ref_062
+AU  - 김범진,
+AU  - 김상환,
+AU  - 김기수,
+TI  - 동형암호 기반 연산 결과의 영지식증명 자동 생성 서버 및 이의 검증 방법
+M1  - KR102956047B1
+UR  - https://patents.google.com/patent/KR102956047B1/ko
+PY  - 2026
+DA  - 2026/4/22
+N1  - English title: Server for automatically generating zero-knowledge proofs of homomorphic encryption computation results and method for verifying them; Published reference slots: ref-062
+ER  -
+
+TY  - PAT
+ID  - f164_ref_063
+AU  - Саттаров,
+AU  - Емельянов,
+AU  - Воронин,
+TI  - Компьютерно-реализуемый способ обработки информации об объектах
+M1  - RU2722538C1
+UR  - https://patents.google.com/patent/RU2722538C1/ru
+PY  - 2020
+DA  - 2020
+N1  - English title: Computer-implemented method for processing information about objects; Published reference slots: ref-063
+ER  -
+
+TY  - THES
+ID  - f164_ref_064
+AU  - Zuber, Martin
+TI  - Contributions à la confidentialité des données en apprentissage machine par chiffrement homomorphe
+UR  - https://theses.fr/api/v1/document/2020UPASG048
+PY  - 2020
+DA  - 2020
+N1  - English title: Contributions to data confidentiality in machine learning through homomorphic encryption; Published reference slots: ref-064
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_065
+AU  - Kremer, Steve
+AU  - Mé, Ludovic
+AU  - Rémy, Didier
+AU  - Roca, Vincent
+TI  - Cybersécurité : Défis actuels et axes de recherche à l’Inria
+UR  - https://gallium.inria.fr/~remy/livre_blanc_cybersecurite/livre_blanc_cybersecurite_resume_fr.html
+PY  - 2019
+DA  - 2019/5
+N1  - English title: Cybersecurity: Current challenges and research directions at Inria; Published reference slots: ref-065
+ER  -
+
+TY  - THES
+ID  - f164_ref_066
+AU  - Minelli, Michele
+TI  - Chiffrement totalement homomorphe pour l’apprentissage automatique
+UR  - https://dblp.org/rec/phd/hal/Minelli18
+PY  - 2018
+DA  - 2018
+N1  - English title: Fully Homomorphic Encryption for Machine Learning; Published reference slots: ref-066
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_067
+AU  - Azraoui, Monir
+TI  - On a testé le chiffrement homomorphe !
+UR  - https://linc.cnil.fr/teste-le-chiffrement-homomorphe
+PY  - 2025
+DA  - 2025/3
+N1  - English title: We tested homomorphic encryption!; Published reference slots: ref-067
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_068
+AU  - CNIL,
+TI  - Les pratiques de chiffrement dans l’informatique en nuage (cloud) public
+UR  - https://cnil.fr/fr/les-pratiques-de-chiffrement-dans-linformatique-en-nuage-cloud-public
+PY  - 2024
+DA  - 2024
+N1  - English title: Encryption practices in public cloud computing; Published reference slots: ref-068
+ER  -
+
+TY  - PAT
+ID  - f164_ref_069
+AU  - Sirdey, Renaud
+AU  - Boudguiga, Aymen
+AU  - Zuber, Martin
+AU  - Stan, Oana
+TI  - Méthode d’interrogation confidentielle d’une base de données
+M1  - WO2025027253A1
+UR  - https://patents.google.com/patent/WO2025027253A1/fr
+PY  - 2025
+DA  - 2025/2/6
+N1  - English title: Method for confidential querying of a database; Published reference slots: ref-069
+ER  -
+
+TY  - PAT
+ID  - f164_ref_070
+AU  - Sirdey, Renaud
+AU  - Boudguiga, Aymen
+AU  - Zuber, Martin
+TI  - Procédé et système client-serveur anti-collusion pour données chiffrées en homomorphe
+M1  - WO2024141743A1
+UR  - https://patents.google.com/patent/WO2024141743A1/fr
+PY  - 2024
+DA  - 2024/7/4
+N1  - English title: Anti-collusion client-server method and system for homomorphically encrypted data; Published reference slots: ref-070
+ER  -
+
+TY  - PAT
+ID  - f164_ref_071
+AU  - Quero, Nicolas
+AU  - Sirdey, Renaud
+AU  - Boudguiga, Aymen
+AU  - Karam, Nadir
+AU  - Sinh, Quentin
+TI  - Méthode d’interrogation confidentielle d’une base de données
+M1  - EP4672066A1
+UR  - https://patents.google.com/patent/EP4672066A1/fr
+PY  - 2025
+DA  - 2025/12/31
+N1  - English title: Method for confidential querying of a database; The published reference identifies a patent-family member as context; the linked patent publication is the cited bibliographic object.; Published reference slots: ref-071
+ER  -
+
+TY  - PAT
+ID  - f164_ref_072
+AU  - Paillier, Pascal
+AU  - Joye, Marc
+TI  - Procédé, systèmes et services cryptographiques d’évaluation de fonctions à valeurs réelles sur des données chiffrées
+M1  - FR3110311B1
+UR  - https://patents.google.com/patent/FR3110311B1/fr
+PY  - 2022
+DA  - 2022/7/1
+N1  - English title: Cryptographic method, systems, and services for evaluating real-valued functions on encrypted data; Published reference slots: ref-072
+ER  -
+
+TY  - PAT
+ID  - f164_ref_073
+AU  - Zama,
+TI  - Système et procédé de commande de bruit dans un système de calcul homomorphe
+M1  - EP4723539A1
+UR  - https://patents.google.com/patent/EP4723539A1/fr
+PY  - 2026
+DA  - 2026/4/8
+N1  - English title: System and method for controlling noise in a homomorphic computation system; Published reference slots: ref-073
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_074
+AU  - 仇健,
+AU  - 马海英,
+AU  - 王占君,
+AU  - 沈金宇,
+TI  - 联邦学习中隐私保护聚合机制综述
+T2  - 计算机应用研究
+VL  - 42
+IS  - 6
+SP  - 1601–1610
+DO  - 10.19734/j.issn.1001-3695.2024.10.0451
+UR  - https://www.arocmag.cn/abs/2024.10.0451
+PY  - 2025
+DA  - 2025
+N1  - English title: Survey of privacy-preserving aggregation mechanisms in federated learning; Published reference slots: ref-074
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_075
+AU  - 张淑芬,
+AU  - 汤本建,
+AU  - 田子坤,
+AU  - 秦肖阳,
+TI  - 基于差分隐私的联邦学习研究综述
+T2  - 计算机应用
+VL  - 45
+IS  - 10
+SP  - 3221–3230
+DO  - 10.11772/j.issn.1001-9081.2024101505
+UR  - https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024101505
+PY  - 2025
+DA  - 2025
+N1  - English title: Survey of federated learning based on differential privacy; Published reference slots: ref-075
+ER  -
+
+TY  - PAT
+ID  - f164_ref_076
+AU  - Databricks,
+TI  - Clean room generation for data collaboration and executing clean room task in data processing pipeline
+M1  - US20250103753A1
+UR  - https://patents.google.com/patent/US20250103753A1/en
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-076
+ER  -
+
+TY  - PAT
+ID  - f164_ref_077
+AU  - Snowflake,
+TI  - Query validation and processing in data clean rooms
+M1  - US20230401201A1
+UR  - https://patents.google.com/patent/US20230401201A1/en
+PY  - 2023
+DA  - 2023
+N1  - Published reference slots: ref-077
+ER  -
+
+TY  - PAT
+ID  - f164_ref_078
+AU  - LiveRamp,
+TI  - Sharing of artificial intelligence models in a clean room with controlled data access
+M1  - WO2026107012A1
+UR  - https://patents.google.com/patent/WO2026107012A1/en
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-078
+ER  -
+
+TY  - PAT
+ID  - f164_ref_079
+AU  - 郑啸,
+TI  - 基于交互式查询的自适应差分隐私预算分配方法及其系统
+M1  - CN112487472B
+UR  - https://patents.google.com/patent/CN112487472B/zh
+PY  - 2023
+DA  - 2023
+N1  - English title: Method and system for adaptive differential privacy budget allocation based on interactive queries; The published author list is abbreviated; additional names remain unspecified.; Published reference slots: ref-079
+ER  -
+
+TY  - PAT
+ID  - f164_ref_080
+AU  - 金华松,
+AU  - 何颖,
+AU  - 廖秀聆,
+AU  - 赖孝友,
+TI  - 一种数据安全屋的实现方法及终端
+M1  - CN114626033B
+UR  - https://patents.google.com/patent/CN114626033B/zh
+PY  - 2022
+DA  - 2022/11/8
+N1  - English title: Method and terminal for implementing a data safe house; Published reference slots: ref-080
+ER  -
+
+TY  - PAT
+ID  - f164_ref_081
+AU  - 梁鹏,
+AU  - 吴皓月,
+TI  - 一种安全屋信息安全管控方法及系统
+M1  - CN116702229A
+UR  - https://patents.google.com/patent/CN116702229A/zh
+PY  - 2023
+DA  - 2023
+N1  - English title: Method and system for information security management and control in a safe house; Published reference slots: ref-081
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_082
+AU  - Kovach, Anhelina
+AU  - Montalvillo, Leticia
+AU  - Lanza, Jorge
+AU  - Sotres, Pablo
+AU  - Urbieta, Aitor
+TI  - Understanding data spaces: A Systematic Mapping Study of foundations, technical building blocks, and sectoral adoption
+T2  - Computer Science Review
+VL  - 59
+SP  - 100819
+DO  - 10.1016/j.cosrev.2025.100819
+UR  - https://www.sciencedirect.com/science/article/pii/S1574013725000954
+PY  - 2026
+DA  - 2026/2
+N1  - Published reference slots: ref-082
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_083
+AU  - Dockara, Tirupathi Rao
+AU  - Malhotra, Manisha
+TI  - TrustDS: policy-compiled governance and verifiable evidence for cross-cloud marketplace analytics under explicit security assumptions
+T2  - Scientific Reports
+VL  - 16
+SP  - 17958
+DO  - 10.1038/s41598-026-48740-8
+UR  - https://www.nature.com/articles/s41598-026-48740-8
+PY  - 2026
+DA  - 2026/4
+N1  - Published reference slots: ref-083
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_084
+AU  - 国家数据局,
+TI  - 基于二手车交易场景的数据全链路流通可信技术应用案例
+UR  - https://www.nda.gov.cn/sjj/ywpd/zcgh/0610/20260610200312774268672_pc.html
+PY  - 2026
+DA  - 2026/6
+N1  - English title: Application case of trusted technologies for data circulation across the entire chain in used-car transactions; Published reference slots: ref-084
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_085
+AU  - 国家数据局,
+TI  - 基于油气管输运行优化场景的电力数据跨主体流通安全技术应用案例
+UR  - https://www.nda.gov.cn/sjj/ywpd/zcgh/0614/20260614185459455376719_pc.html
+PY  - 2026
+DA  - 2026/6
+N1  - English title: Application case of security technologies for cross-entity circulation of electricity data to optimize oil and gas pipeline operations; Published reference slots: ref-085
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_086
+AU  - 国家数据局,
+TI  - 四川长虹企业可信数据空间——打通企业数实融合应用闭环
+UR  - https://www.nda.gov.cn/sjj/ywpd/sjzy/0123/20260123211347316394985_pc.html
+PY  - 2026
+DA  - 2026/1
+N1  - English title: Sichuan Changhong enterprise trusted data space: Completing the application loop for integration of the digital and physical economies; Published reference slots: ref-086
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_087
+AU  - 国家数据局,
+TI  - 中小银行服务行业可信数据空间——破解数据流通壁垒
+UR  - https://www.nda.gov.cn/sjj/ywpd/sjzy/0121/20260121135536476611581_pc.html
+PY  - 2026
+DA  - 2026/1
+N1  - English title: Trusted data space for the small and medium-sized banking services sector: Breaking down barriers to data circulation; Published reference slots: ref-087
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_088
+AU  - 国家数据局,
+TI  - 可信数据空间试点典型经验：药品行业可信数据空间——激活医药数据创新动能，夯实医药行业高质量发展数字根基
+UR  - https://www.nda.gov.cn/sjj/ywpd/sjzy/0116/20260116133807881461163_mobile.html
+PY  - 2026
+DA  - 2026/1/16
+N1  - English title: Lessons from trusted data space pilots: A pharmaceutical industry trusted data space to stimulate pharmaceutical data innovation and strengthen the digital foundations of high-quality industry development; Published reference slots: ref-088
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_089
+AU  - 国家数据局,
+TI  - 可信数据空间试点典型经验：南京城市可信数据空间——以资源汇聚与运营模式构建数据价值释放的长效机制
+UR  - https://www.nda.gov.cn/sjj/ywpd/sjzy/0114/20260114095400332200979_pc.html
+PY  - 2026
+DA  - 2026/1/14
+N1  - English title: Lessons from trusted data space pilots: Nanjing's city trusted data space, building a lasting mechanism for realizing data value through resource aggregation and operating models; Published reference slots: ref-089
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_090
+AU  - 国家数据局,
+TI  - 数据基础设施建设典型案例之二十二｜双轮驱动：打造合肥可信数据空间技术+制度创新融合“试验场”
+UR  - https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/1023/20251023155227839200478_pc.html
+PY  - 2025
+DA  - 2025/10/23
+N1  - English title: Data infrastructure construction case 22: A dual approach to building Hefei's trusted data space as a testbed for integrated technological and institutional innovation; Published reference slots: ref-090
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_091
+AU  - 国家数据局,
+TI  - 可信数据空间试点典型经验：国网山西电力企业可信数据空间——驱动电力数据价值释放、赋能新型电力系统建设
+UR  - https://www.nda.gov.cn/sjj/ywpd/sjzy/0123/20260123211644146189441_pc.html
+PY  - 2026
+DA  - 2026/1/27
+N1  - English title: Lessons from trusted data space pilots: State Grid Shanxi Electric Power's enterprise trusted data space, realizing electricity data value and enabling a new type of power system; Published reference slots: ref-091
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_092
+AU  - 国家数据局,
+TI  - 可信数据空间试点典型经验：海洋资源环境行业可信数据空间——赋能海洋经济高质量发展
+UR  - https://www.nda.gov.cn/sjj/ywpd/sjzy/0122/20260122184841288955353_pc.html
+PY  - 2026
+DA  - 2026/1/22
+N1  - English title: Lessons from trusted data space pilots: A marine resources and environment industry trusted data space enabling high-quality development of the marine economy; Published reference slots: ref-092
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_093
+AU  - 国家数据局,
+TI  - 第二批公共数据“跑起来”典型案例之三｜重庆智能网联汽车融合应用场景
+UR  - https://www.nda.gov.cn/sjj/ywpd/sjzy/0511/20260511203858219045669_pc.html
+PY  - 2026
+DA  - 2026/5/11
+N1  - English title: Second collection of cases of putting public data to work, case 3: Integrated applications for intelligent connected vehicles in Chongqing; Published reference slots: ref-093
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_094
+AU  - NTTドコモビジネス,
+AU  - 千葉大学医学部附属病院,
+TI  - 患者と医療・社会をつなぐ秘密計算を用いた世界初の秘匿型ePROシステムで有効性を確認
+UR  - https://www.ntt.com/about-us/press-releases/news/article/2026/0615_2.html
+PY  - 2026
+DA  - 2026/6/15
+N1  - English title: Effectiveness confirmed in the world's first confidential ePRO system using secure computation to connect patients with healthcare and society; Published reference slots: ref-094
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_095
+AU  - 임성호,
+TI  - 교통카드 정보, 민간에 공개…서울·대전 '데이터안심구역' 마련
+UR  - https://www.yna.co.kr/view/AKR20250331143400003
+PY  - 2025
+DA  - 2025/4/1
+N1  - English title: Transit-card information opened to private users: Data safe zones established in Seoul and Daejeon; Published reference slots: ref-095
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_096
+AU  - 국토부·과기정통부,
+TI  - 국토부-과기정통부, AI·데이터 활용 확대를 위한 ‘2025년 데이터안심구역 활용 공동 경진대회’ 개최
+UR  - https://eiec.kdi.re.kr/policy/materialView.do?num=270715&pg=&pp=&topic=L
+PY  - 2025
+DA  - 2025/9/8
+N1  - English title: The Ministry of Land, Infrastructure and Transport and the Ministry of Science and ICT announce the 2025 joint competition on the use of data safe zones to expand AI and data use; Published reference slots: ref-096
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_097
+AU  - DLR,
+TI  - Vorreiter für Datenräume im Automobilbereich – Das Projekt Gaia-X 4 KI präsentiert seine Ergebnisse
+UR  - https://www.dlr.de/de/ts/aktuelles/nachrichten/2024/gaia-x-4-ki-projektabschluss
+PY  - 2024
+DA  - 2024
+N1  - English title: Pioneering data spaces in the automotive sector: The Gaia-X 4 KI project presents its results; Published reference slots: ref-097
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_098
+AU  - Gobierno de España,
+TI  - El Gobierno pone en marcha la Lista de Confianza de Espacios de Datos
+UR  - https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transformacion-digital-y-funcion-publica/paginas/2026/090126-lista-confianza-espacios-datos.aspx
+PY  - 2026
+DA  - 2026
+N1  - English title: The government launches the Trusted List of Data Spaces; Published reference slots: ref-098
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_099
+AU  - SRI / Reworld Media,
+TI  - Data, performance, IA : Reworld Media déploie une Data Clean Room à grande échelle avec Mediarithmics
+UR  - https://www.sri-france.org/2026/01/27/data-performance-ia-reworld-media-deploie-une-data-clean-room-a-grande-echelle-avec-mediarithmics/
+PY  - 2026
+DA  - 2026/1
+N1  - English title: Data, performance, AI: Reworld Media deploys a Data Clean Room at scale with Mediarithmics; Published reference slots: ref-099
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_100
+AU  - Bell Média,
+TI  - Les données internes de Bell : l’audience propulsée en performance
+UR  - https://www.bellmedia.ca/fr/ventes-publicitaires/ressources/insights/les-donnees-internes-de-bell-laudience-propulsee-en-performance/
+PY  - 2026
+DA  - 2026
+N1  - English title: Bell's first-party data: Turning audiences into performance; Published reference slots: ref-100
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_101
+AU  - Plateforme des données de santé,
+TI  - FEDERATED-PET: Apprentissage Fédéré en imagerie TEP-TDM pour prédire la survie de patient atteints de CPNPC métastatique traité par immunothérapie
+UR  - https://www.health-data-hub.fr/projets/federated-pet-apprentissage-federe-en-imagerie-tep-tdm-pour-predire-la-survie-de-patient
+N1  - English title: FEDERATED-PET: Federated learning with PET-CT imaging to predict survival in patients with metastatic non-small-cell lung cancer treated with immunotherapy; Published reference slots: ref-101
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_102
+AU  - Plateforme des données de santé,
+TI  - Mise en place d’un apprentissage fédéré d’algorithmes d’intelligence artificielle entre sites hospitaliers Normands
+UR  - https://www.health-data-hub.fr/projets/mise-en-place-dun-apprentissage-federe-dalgorithmes-dintelligence-artificielle-entre-sites
+N1  - English title: Implementing federated learning of artificial intelligence algorithms across hospital sites in Normandy; Published reference slots: ref-102
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_103
+AU  - 개인정보보호위원회,
+TI  - 가명정보 결합 절차 안내
+UR  - https://pipc.go.kr/np/default/page.do?mCode=D040010000
+N1  - English title: Guide to procedures for combining pseudonymized information; Published reference slots: ref-103
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_104
+AU  - 개인정보보호위원회,
+TI  - 결합전문기관 재지정 공고
+UR  - https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=11118
+PY  - 2025
+DA  - 2025/4/11
+N1  - English title: Notice of redesignation of specialized data-combination institutions; Published reference slots: ref-104
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_105
+AU  - 대한민국,
+TI  - 데이터 산업진흥 및 이용촉진에 관한 기본법
+UR  - https://law.go.kr/LSW/lsInfoP.do?lsiSeq=283739
+PY  - 2026
+DA  - 2026
+N1  - English title: Framework Act on the Promotion of the Data Industry and the Facilitation of Data Use; The date denotes the consolidated version described by the published reference.; Published reference slots: ref-105
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_106
+AU  - España,
+TI  - Orden TDF/1207/2025, Lista de Confianza de Espacios de Datos
+UR  - https://www.boe.es/eli/es/o/2025/10/27/tdf1207
+PY  - 2025
+DA  - 2025/10/27
+N1  - English title: Order TDF/1207/2025, Trusted List of Data Spaces; Published reference slots: ref-106
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_107
+AU  - Secretaría de Estado de Digitalización e IA,
+TI  - Lista de Confianza de Espacios de Datos
+UR  - https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24440
+PY  - 2025
+DA  - 2025/11
+N1  - English title: Trusted List of Data Spaces; Published reference slots: ref-107
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_108
+AU  - International Data Spaces Association,
+TI  - Usage Control
+UR  - https://docs.internationaldataspaces.org/ids-knowledgebase/ids-ram-4/perspectives-of-the-reference-architecture-model/4_perspectives/4_1_security_perspective/4_1_6_usage_control
+N1  - Published reference slots: ref-108
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_109
+AU  - Commission européenne,
+TI  - Espaces européens communs des données
+UR  - https://digital-strategy.ec.europa.eu/fr/policies/data-spaces
+N1  - English title: Common European data spaces; The release describes an update or preview date; it is not installed as a publication date.; Published reference slots: ref-109
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_110
+AU  - Commission européenne,
+TI  - Acte européen sur la gouvernance des données
+UR  - https://digital-strategy.ec.europa.eu/fr/policies/data-governance-act
+N1  - English title: European Data Governance Act; Published reference slots: ref-110
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_111
+AU  - Commission européenne,
+TI  - Explication de l’acte sur la gouvernance des données
+UR  - https://digital-strategy.ec.europa.eu/fr/policies/data-governance-act-explained
+PY  - 2026
+DA  - 2026/7
+N1  - English title: Data Governance Act explained; Published reference slots: ref-111
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_112
+AU  - Commission européenne,
+TI  - Le règlement sur les données expliqué
+UR  - https://digital-strategy.ec.europa.eu/fr/factpages/data-act-explained
+N1  - English title: Data Act explained; Published reference slots: ref-112
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_113
+AU  - European Language Data Space,
+TI  - À propos
+UR  - https://language-data-space.ec.europa.eu/about_fr
+N1  - English title: About; Published reference slots: ref-113
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_114
+AU  - Commission européenne,
+TI  - Simpl : Des fédérations de cloud-to-edge qui renforcent les espaces de données de l’UE
+UR  - https://digital-strategy.ec.europa.eu/fr/policies/simpl
+PY  - 2026
+DA  - 2026/6/22
+N1  - English title: Simpl: Cloud-to-edge federations empowering EU data spaces; Published reference slots: ref-114
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_115
+AU  - 李恒,
+AU  - 李凤华,
+AU  - 史欣怡,
+TI  - 面向数据跨域安全流通的访问控制研究综述
+T2  - 通信学报
+VL  - 46
+IS  - 4
+SP  - 238–254
+DO  - 10.11959/j.issn.1000-436x.2025042
+UR  - https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2025042/
+PY  - 2025
+DA  - 2025
+N1  - English title: A survey of access control for secure cross-domain data circulation; The published author list is abbreviated; additional names remain unspecified.; Published reference slots: ref-115
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_116
+AU  - Kavianpour, Sanaz
+AU  - Sutherland, James
+AU  - Mansouri-Benssassi, Esma
+AU  - Coull, Natalie
+AU  - Jefferson, Emily
+TI  - Next-Generation Capabilities in Trusted Research Environments: Interview Study
+T2  - Journal of Medical Internet Research
+VL  - 24
+IS  - 9
+SP  - e33720
+DO  - 10.2196/33720
+UR  - https://www.jmir.org/2022/9/e33720
+PY  - 2022
+DA  - 2022/9/20
+N1  - Published reference slots: ref-116
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_117
+AU  - Zobaed, Sm
+AU  - Amini Salehi, Mohsen
+TI  - Confidential Computing Across Edge‐To‐Cloud for Machine Learning: A Survey Study
+T2  - Software: Practice and Experience
+VL  - 55
+IS  - 5
+SP  - 896-924
+DO  - 10.1002/spe.3398
+UR  - https://doi.org/10.1002/spe.3398
+PY  - 2025
+DA  - 2025/1/3
+N1  - Published reference slots: ref-117
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_118
+AU  - CNIL,
+TI  - IA : Tenir compte de la protection des données dans la conception du système
+UR  - https://cnil.fr/fr/tenir-compte-de-la-protection-des-donnees-dans-la-conception-du-systeme
+PY  - 2024
+DA  - 2024
+N1  - English title: AI: Taking data protection into account in system design; Published reference slots: ref-118
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_119
+AU  - CNIL,
+TI  - IA : Garantir la sécurité du développement d’un système d’IA
+UR  - https://www.cnil.fr/fr/ia-garantir-la-securite-du-developpement
+PY  - 2025
+DA  - 2025
+N1  - English title: AI: Ensuring security when developing an AI system; Published reference slots: ref-119
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_120
+AU  - CNIL–LINC,
+TI  - [itw] Nicolas Papernot : “Il faut capturer de façon globale les enjeux de performance ET de sécurité ET de vie privée ET d’équité !”
+UR  - https://linc.cnil.fr/itw-nicolas-papernot-il-faut-capturer-de-facon-globale-les-enjeux-de-performance-et-de-securite-et
+PY  - 2022
+DA  - 2022
+N1  - English title: Interview with Nicolas Papernot: We must address performance AND security AND privacy AND fairness together!; Published reference slots: ref-120
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_121
+AU  - CNIL,
+TI  - Consultation publique – Questionnaire sur l’application du RGPD aux modèles d’IA : Synthèse des contributions
+UR  - https://www.cnil.fr/sites/default/files/2025-07/synthese_des_contributions_questionnaire_modeles_ia.pdf
+PY  - 2025
+DA  - 2025
+N1  - English title: Public consultation: Questionnaire on the application of the GDPR to AI models, summary of contributions; Published reference slots: ref-121
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_122
+AU  - CNIL,
+TI  - Développement des systèmes d’IA : les recommandations de la CNIL pour respecter le RGPD
+UR  - https://www.cnil.fr/fr/developpement-des-systemes-dia-les-recommandations-de-la-cnil-pour-respecter-le-rgpd
+PY  - 2025
+DA  - 2025
+N1  - English title: Developing AI systems: CNIL recommendations for GDPR compliance; Published reference slots: ref-122
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_123
+AU  - CNIL,
+TI  - La CNIL accompagne le projet interdisciplinaire sur la protection des données personnelles (iPoP)
+UR  - https://cnil-d10.cnil.fr/fr/la-cnil-accompagne-le-projet-interdisciplinaire-sur-la-protection-des-donnees-personnelles-ipop
+PY  - 2023
+DA  - 2023
+N1  - English title: CNIL supports the interdisciplinary project on personal data protection (iPoP); Published reference slots: ref-123
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_124
+AU  - CNIL,
+TI  - Travaux sur la constitution de bases de données pour l’intelligence artificielle : Appel à contributions
+UR  - https://www.cnil.fr/sites/cnil/files/2023-07/travaux_sur_la_constitution_de_bases_de_donnees_pour_l_intelligence_artificielle_appel_a_contributions.pdf
+PY  - 2023
+DA  - 2023
+N1  - English title: Work on building databases for artificial intelligence: Call for contributions; Published reference slots: ref-124
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_125
+AU  - 熊世强,
+AU  - 何道敬,
+AU  - 王振东,
+AU  - 杜润萌,
+TI  - 联邦学习及其安全与隐私保护研究综述
+T2  - 计算机工程
+VL  - 50
+IS  - 5
+SP  - 1–15
+DO  - 10.19678/j.issn.1000-3428.0067782
+UR  - https://www.ecice06.com/CN/Y2024/V50/I5/1
+PY  - 2024
+DA  - 2024/5
+N1  - English title: A survey of federated learning and its security and privacy protection; Published reference slots: ref-125
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_126
+AU  - Rizzini, Andrea
+AU  - Esposito, Marco
+AU  - Gagliardoni, Tommaso
+AU  - Bruschi, Francesco
+TI  - SoK: Verifiable Integrity Claims for Privacy-Preserving Federated Learning
+T2  - Proceedings on Privacy Enhancing Technologies
+VL  - 2026
+IS  - 4
+SP  - 248-271
+DO  - 10.56553/popets-2026-0119
+UR  - https://www.petsymposium.org/popets/2026/popets-2026-0119.php
+PY  - 2026
+DA  - 2026/10
+N1  - Published reference slots: ref-126
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_127
+AU  - 菊池 亮,
+AU  - 五十嵐 大,
+TI  - 秘密計算の発展―データを隠しつつ計算する仕組みとその発展―
+T2  - IEICE ESS Fundamentals Review
+VL  - 12
+IS  - 1
+SP  - 12-20
+DO  - 10.1587/essfr.12.1_12
+UR  - https://doi.org/10.1587/essfr.12.1_12
+PY  - 2018
+DA  - 2018/7/1
+L2  - https://www.jstage.jst.go.jp/article/essfr/12/1/12_12/_article/-char/ja
+N1  - English title: Progress of Secure Computation: Basic Constructions and Dedicated Algorithms; Published reference slots: ref-127
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_128
+AU  - 白玉真,
+AU  - 贾轩,
+AU  - 王思源,
+AU  - 袁博,
+TI  - 数据流通利用设施关键技术与建设路径研究
+T2  - 信息通信技术与政策
+VL  - 51
+IS  - 4
+SP  - 34–39
+UR  - https://ictp.caict.ac.cn/CN/abstract/abstract1390.shtml
+PY  - 2025
+DA  - 2025
+N1  - English title: Research on key technologies and construction pathways for data circulation and utilization infrastructure; Published reference slots: ref-128
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_129
+AU  - Fraunhofer ISST,
+TI  - Datentreuhänder
+UR  - https://www.isst.fraunhofer.de/de/abteilungen/mobility-und-smart-cities/datentreuhaender.html
+N1  - English title: Data trustees; Published reference slots: ref-129
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_130
+AU  - Fraunhofer IGD,
+TI  - Abschlussveranstaltung: Datentreuhandmodell für horizontale Geodatenräume – InGeoDTM
+UR  - https://www.igd.fraunhofer.de/de/veranstaltungen/abschlussveranstaltung-datentreuhandmodell-fuer-horizontale-geodatenraeume-ingeodtm.html
+PY  - 2026
+DA  - 2026/2/25
+N1  - English title: Closing event: Data trusteeship model for horizontal geospatial data spaces, InGeoDTM; Published reference slots: ref-130
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_131
+AU  - Fraunhofer ISST,
+TI  - InGeoDTM – Ein Governance-Modell für domänenübergreifende Geodatenbereitstellung
+UR  - https://www.isst.fraunhofer.de/de/publikationen/wissenschaftliche-publikationen/InGeoDTM-Ein-Governance-Modell-fuer-domaenenuebergreifende-Geodatenbereitstellung.html
+PY  - 2026
+DA  - 2026
+N1  - English title: InGeoDTM: A governance model for cross-domain provision of geospatial data; Published reference slots: ref-131
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_132
+AU  - Fraunhofer/Plattform Industrie 4.0,
+TI  - Digitale Geschäftsmodelle und Wertschöpfung in Datenräumen für die Industrie
+UR  - https://www.scs.fraunhofer.de/de/publikationen/studien/digitale-geschaeftsmodelle-und-wertschoepfung-in-datenraeumen-fuer-die-industrie.html
+N1  - English title: Digital business models and value creation in industrial data spaces; Published reference slots: ref-132
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_133
+AU  - DLR,
+TI  - Föderierte Datenräume für den Schienenverkehr
+UR  - https://www.dlr.de/de/ts/aktuelles/nachrichten/2026/foederierte-datenraeume-fuer-den-schienenverkehr
+PY  - 2026
+DA  - 2026/8/25
+N1  - English title: Federated data spaces for rail transport; Published reference slots: ref-133
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_134
+AU  - Di Gennaro, Marco
+AU  - De Lucia, Giovanni
+AU  - Longari, Stefano
+AU  - Zanero, Stefano
+AU  - Carminati, Michele
+TI  - TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems
+T2  - Proceedings on Privacy Enhancing Technologies
+VL  - 2025
+IS  - 4
+SP  - 566-584
+DO  - 10.56553/popets-2025-0145
+UR  - https://petsymposium.org/popets/2025/popets-2025-0145.php
+PY  - 2025
+DA  - 2025/10
+N1  - Published reference slots: ref-134
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_135
+AU  - CNIL–LINC,
+TI  - Chacun chez soi et les données seront bien gardées : l’apprentissage fédéré
+UR  - https://linc.cnil.fr/chacun-chez-soi-et-les-donnees-seront-bien-gardees-lapprentissage-federe
+PY  - 2022
+DA  - 2022
+N1  - English title: Everyone at home and the data well guarded: Federated learning; Published reference slots: ref-135
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_136
+AU  - Léautier, Alexis
+TI  - [Données synthétiques] – Et l’Homme créa les données à son image 2/2
+UR  - https://linc.cnil.fr/donnees-synthetiques-et-lhomme-crea-les-donnees-son-image-22
+PY  - 2022
+DA  - 2022
+N1  - English title: Synthetic data: And humankind created data in its own image, 2/2; Published reference slots: ref-136
+ER  -
+
+TY  - UNPB
+ID  - f164_ref_137
+AU  - Singh, Gundeep
+AU  - Kavehzadeh, Parsa
+AU  - Xia, Jing
+AU  - Fu, Xue-Yong
+AU  - Tremblay, Julien Bouvier
+AU  - Laskar, Md Tahmid Rahman
+AU  - Lum, Vincent
+AU  - TN, Shashi Bhushan
+TI  - Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs
+UR  - https://arxiv.org/abs/2605.21027
+PY  - 2026
+DA  - 2026/5/20
+N1  - Published reference slots: ref-137
+ER  -
+
+TY  - UNPB
+ID  - f164_ref_138
+AU  - Li, Guoliang
+AU  - Zhou, Peiyao
+AU  - Zhou, Xuanhe
+AU  - Sun, Ji
+AU  - Luo, Yuyu
+AU  - Fan, Ju
+TI  - Data Agents: Agentic Data Systems
+UR  - https://arxiv.org/abs/2609.24137
+PY  - 2026
+DA  - 2026/9/21
+N1  - Published reference slots: ref-138
+ER  -
+
+TY  - PAT
+ID  - f164_ref_139
+AU  - Dumanois, Antoine
+AU  - Traore, Jacques
+TI  - Procédés et dispositifs permettant de contrôler l’accès d’un utilisateur à un service en certifiant et en assurant la confidentialité des attributs de cet utilisateur
+M1  - FR3154273A1
+UR  - https://patents.google.com/patent/FR3154273A1/fr
+PY  - 2025
+DA  - 2025/4/18
+N1  - English title: Methods and devices for controlling a user's access to a service by certifying and ensuring the confidentiality of that user's attributes; Published reference slots: ref-139
+ER  -
+
+TY  - PAT
+ID  - f164_ref_140
+AU  - Orange,
+TI  - Procédé et dispositif de génération d’une réponse à une requête sur un grand modèle de langage contrôlant les sources utilisées
+M1  - WO2026052543A1
+UR  - https://patents.google.com/patent/WO2026052543A1/fr
+PY  - 2026
+DA  - 2026
+N1  - English title: Method and device for generating a response to a query to a large language model while controlling the sources used; Published reference slots: ref-140
+ER  -
+
+TY  - PAT
+ID  - f164_ref_141
+AU  - Drilhon, Xavier
+AU  - de Lassus, Jean-Gaston
+AU  - Imbaud, Marc
+TI  - Procédé de transmission de données à divulgation sélective
+M1  - WO2025172401A1
+UR  - https://patents.google.com/patent/WO2025172401A1/fr
+PY  - 2025
+DA  - 2025/8/21
+N1  - English title: Method for transmitting data with selective disclosure; Published reference slots: ref-141
+ER  -
+
+TY  - PAT
+ID  - f164_ref_142
+AU  - Orange,
+TI  - Processus de déclaration de non-exploitabilité de données échangées
+M1  - EP3900294A1
+UR  - https://patents.google.com/patent/EP3900294A1/fr
+PY  - 2021
+DA  - 2021/10/27
+N1  - English title: Process for declaring exchanged data unusable; The published reference identifies a patent-family member as context; the linked patent publication is the cited bibliographic object.; Published reference slots: ref-142
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_143
+AU  - 刘琛,
+TI  - 可信数据空间数据智能体技术展望
+UR  - https://www.secrss.com/articles/90521
+PY  - 2026
+DA  - 2026/5
+N1  - English title: Prospects for data agent technology in trusted data spaces; Published reference slots: ref-143
+ER  -
+
+TY  - STAND
+ID  - f164_ref_144
+AU  - 中国互联网协会,
+TI  - 可信智能体空间建设指南 第1部分：总体架构与安全要求
+UR  - https://www.afdata.org.cn/Standard/d3721db2-7ab6-431d-83e4-0469ba0d885b
+PY  - 2026
+DA  - 2026/6
+N1  - English title: Guidelines for building trusted agent spaces, Part 1: Overall architecture and security requirements; Published reference slots: ref-144
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_145
+AU  - 中央网络安全和信息化委员会办公室,
+TI  - 智能体规范应用与创新发展实施意见
+UR  - https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm
+PY  - 2026
+DA  - 2026/5
+N1  - English title: Implementation opinions on the standardized application and innovative development of agents; The published author list is abbreviated; additional names remain unspecified.; Published reference slots: ref-145
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_146
+AU  - IAB,
+TI  - IAB State Privacy Law Survey Results 2025
+UR  - https://www.iab.com/insights/state-privacy-law-survey-results-2025/
+PY  - 2025
+DA  - 2025/3/17
+N1  - Published reference slots: ref-146
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_147
+AU  - Zhu, Dexin
+AU  - Zhou, Zhiqiang
+AU  - Li, Yuanbo
+AU  - Zhang, Huanjie
+AU  - Chen, Yang
+AU  - Zhao, Zilong
+AU  - Zheng, Jun
+TI  - A Survey of Data Security Sharing
+T2  - Symmetry
+VL  - 17
+IS  - 8
+SP  - 1259
+DO  - 10.3390/sym17081259
+UR  - https://www.mdpi.com/2073-8994/17/8/1259
+PY  - 2025
+DA  - 2025/8/7
+N1  - Published reference slots: ref-147
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_148
+AU  - Madhusudhanan, Sheema
+AU  - Jose, Arun Cyril
+TI  - Privacy preservation techniques through data lifecycle: A comprehensive literature survey
+T2  - Computers & Security
+VL  - 155
+SP  - 104473
+DO  - 10.1016/j.cose.2025.104473
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404825001622
+PY  - 2025
+DA  - 2025/8
+N1  - Published reference slots: ref-148
+ER  -
+
+TY  - JOUR
+ID  - f164_ref_149
+AU  - Li, Miles Q.
+AU  - Fung, Benjamin C. M.
+TI  - Security concerns for Large Language Models: A survey
+T2  - Journal of Information Security and Applications
+VL  - 95
+SP  - 104284
+UR  - https://www.sciencedirect.com/science/article/pii/S2214212625003217
+PY  - 2025
+DA  - 2025/12
+N1  - Published reference slots: ref-149
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_150
+AU  - 国家数据局综合司,
+TI  - 关于公布2025年可信数据空间创新发展试点名单的通知
+UR  - https://www.nda.gov.cn/sjj/zwgk/tzgg/0716/20250716205501357780564_pc.html
+PY  - 2025
+DA  - 2025/7/17
+N1  - English title: Notice announcing the list of 2025 pilot projects for innovative development of trusted data spaces; Document dated 16 July 2025; publication posting dated 17 July 2025.; Published reference slots: ref-150
+ER  -
+
+TY  - ELEC
+ID  - f164_ref_151
+AU  - 国家数据局,
+TI  - 〈可信数据空间创新发展报告（2025）〉发布
+UR  - https://www.nda.gov.cn/sjj/ywpd/sjzy/0901/20250829085131590048920_pc.html
+PY  - 2025
+DA  - 2025/8/29
+N1  - English title: Release of the Report on the Innovative Development of Trusted Data Spaces (2025); Published reference slots: ref-151
+ER  -

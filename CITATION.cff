@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "This repository is a machine-readable derivative; the DOI-linked Zenodo report is the publication of record."
+title: "External Analysis of Protected Data"
+authors:
+  - family-names: Pierce
+    given-names: Brad
+    orcid: "https://orcid.org/0009-0009-7427-2969"
+doi: "10.5281/zenodo.23377117"
+date-released: "2026-10-14"
+url: "https://bradpierce.ai/external-analysis-of-protected-data/"
+license: CC-BY-NC-4.0
+keywords:
+  - "data clean rooms"
+  - "trusted research environments"
+  - "confidential computing"
+  - "secure multiparty computation"
+  - "differential privacy"
+  - "privacy-preserving computation"
+  - "approved queries"
+  - "AI agents"
+preferred-citation:
+  type: report
+  title: "External Analysis of Protected Data"
+  authors:
+    - family-names: Pierce
+      given-names: Brad
+      orcid: "https://orcid.org/0009-0009-7427-2969"
+  year: 2026
+  month: 10
+  date-published: "2026-10-14"
+  doi: "10.5281/zenodo.23377117"
+  url: "https://doi.org/10.5281/zenodo.23377117"
+  publisher:
+    name: Zenodo

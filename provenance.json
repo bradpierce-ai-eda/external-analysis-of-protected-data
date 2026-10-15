@@ -1,0 +1,27 @@
+{
+  "publication_of_record": "https://doi.org/10.5281/zenodo.23377117",
+  "zenodo_record": "https://zenodo.org/records/23377117",
+  "zenodo_record_revision": 4,
+  "publication_date": "2026-10-14",
+  "source_pdf": {
+    "file": "external-analysis-of-protected-data.pdf",
+    "bytes": 692912,
+    "sha256": "6d6ecdf9d44e18f296844af01b0dd55facbc8a3f09c358638f0c4cf7b1f97892",
+    "pages": 23
+  },
+  "canonical_text_sha256": "ec37769439ce0264e0d64e370a9dd80269c48a06fbe51c5f328ffe4099924e5f",
+  "canonical_markdown_sha256": "b82918e4458dd803b4dd45039eb46dfc63696c8b559a4f8f9c7c8a829ffa0dfb",
+  "generation_date": "2026-10-14",
+  "transformation": "The machine-readable source that produced the verified published PDF is frozen in source/paper.json. Full text and links are preserved; repository framing, scholarly metadata and bibliography normalization are separate. The PDF is mirrored byte-for-byte.",
+  "validation_status": "PASS — frozen release, complete text and metadata checks; classic BibTeX and independent Citation.js export checks; mutation regression checks.",
+  "tools": {
+    "PDF validation": "pypdf 6.10.0",
+    "HTML validation": "Beautiful Soup 4.15.0",
+    "bibliography compatibility": "BibTeX 0.99e (TeX Live 2026) and Citation.js 0.9.0"
+  },
+  "validation_contract": "scripts/validate_derivative.py checks the full ordered text, references, links, metadata, immutable PDF and exact checksum path set; scripts/test_regressions.py exercises drift rejection. Bibliography exports rebuild offline from bibliography.json.",
+  "source_reference_slots": 151,
+  "figures": 0,
+  "tables": 0,
+  "retrieval_history": "Authority retrieval history is maintained in private working records; no reader access dates are added."
+}
